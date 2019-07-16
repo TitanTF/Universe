@@ -9,7 +9,7 @@ description: Items come in different rarities.
     <tr>
       <th style="text-align:left">Color</th>
       <th style="text-align:left">Name</th>
-      <th style="text-align:left">Remarks</th>
+      <th style="text-align:left"></th>
     </tr>
   </thead>
   <tbody>
@@ -42,7 +42,7 @@ description: Items come in different rarities.
     <tr>
       <td style="text-align:left">FFD700</td>
       <td style="text-align:left">Mythic</td>
-      <td style="text-align:left">Item border pulses in color (web).</td>
+      <td style="text-align:left">Item border pulses in color (only web).</td>
     </tr>
     <tr>
       <td style="text-align:left">EB4B4B</td>
