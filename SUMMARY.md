@@ -22,7 +22,7 @@
 
 ## Fix Titan.TF <a id="fix"></a>
 
-* [What?](fix/information/README.md)
+* [Titan Improvement Project \(TIP\)](fix/information/README.md)
   * [Fix Titan.TF](https://fix.titan.tf)
 
 ## Creators Hub \(Coming Soon\) <a id="creators-hub"></a>

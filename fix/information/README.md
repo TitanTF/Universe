@@ -1,12 +1,12 @@
 ---
 description: >-
-  This platform was born to make titan.tf a better place for you, and for
-  everyone.
+  Fix Titan.TF, or also known as Titan Improvement Project(TIP), is a platform
+  created to turn titan.tf into a better place for you, and for everyone.
 ---
 
-# What?
+# Titan Improvement Project \(TIP\)
 
-### [Standard rules applies on this platform.](https://titan.tf/rules)
+### [Please note that standard rules applies on this platform.](https://titan.tf/rules)
 
 This platform was created to bridge the important issues and bugs from the main forum, and to create a dedicated hub for improving the community. All discussions posted on this platform will be noticed, and will be our **\#1** place for discovering existing issues.
 
