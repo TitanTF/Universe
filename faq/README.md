@@ -1,5 +1,5 @@
 ---
-description: A list of commonly asked questions.
+description: 'A non-exhaustive list of frequently asked questions, answered.'
 ---
 
 # FAQ

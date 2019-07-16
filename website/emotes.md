@@ -1,5 +1,5 @@
 ---
-description: Add some spice to your messages.
+description: Add some spice to your message.
 ---
 
 # Emotes

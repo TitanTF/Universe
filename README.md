@@ -1,22 +1,18 @@
 ---
-description: >-
-  Earn gems while you play on the world's most advanced Team Fortress 2 servers
-  and exchange for rewards.
+description: Welcome to the Titan Universe
 ---
 
 # Overview
 
-## Introduction
+## Welcome
 
-Titan.tf sets the standards for what community servers should be. They are packed with great features, with low impact on the performance.
+Titan Universe is the one place for everything Titan. Here you will discover the basics to get you started, as well as advanced features you will one day use.
 
-This wiki was created to bring the entire titan.tf universe into one collective library.
+> This platform is created and maintained by the team. If you wish to make a modification, click the "Edit on GitHub" button on the top right of any page to create a Pull Request.
 
-> Created and maintained by the team.
+![by Leeroy](.gitbook/assets/universe.png)
 
 ## Updates
 
-The network regularly receives updates depending on ideas and issues that come about. There is no decided interval between updates.
-
-Check the Community Tracker for the list of issues that are currently under our radar, and the features that are in the works.
+Titan regularly receives content and feature updates depending on ideas and issues that come about, which also includes bug fixes. There is no fixed interval between updates or release schedule.
 

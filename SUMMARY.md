@@ -10,21 +10,22 @@
 * [Daily Tasks](website/daily-tasks.md)
 * [Emotes](website/emotes.md)
 * [Promotions](website/promotions/README.md)
-  * [Go to Promotions](https://titan.tf/promotions)
+  * [Promotions](https://titan.tf/promotions)
 * [Referrals](website/referrals/README.md)
-  * [Get Referral Link](https://titan.tf/referrals)
+  * [Referral Link](https://titan.tf/referrals)
 * [Sponsorships](website/sponsorships/README.md)
-  * [Apply Here](https://titan.tf/sponsorships)
+  * [Sponsorships](https://titan.tf/sponsorships)
 
-## Titan Plus
+## Titan Plus <a id="plus"></a>
 
 * [Subscribe to Plus](https://titan.tf/plus)
 
-## Fix Titan.TF
+## Fix Titan.TF <a id="fix"></a>
 
-* [What?](fix/information.md)
+* [What?](fix/information/README.md)
+  * [Fix Titan.TF](https://fix.titan.tf)
 
-## Creators Hub \(Coming Soon\)
+## Creators Hub \(Coming Soon\) <a id="creators-hub"></a>
 
 * [Announcement](creators-hub/announcement.md)
 
@@ -50,7 +51,7 @@
   * [Lucky Coins](items/currencies/lucky-coins.md)
 * [Shop](items/shop/README.md)
   * [Gifts Shop](items/shop/gifts-shop/README.md)
-    * [Go to Gifts Shop](https://titan.tf/gifts)
+    * [Gifts Shop](https://titan.tf/gifts)
     * [Gift Cards](items/shop/gifts-shop/gift-cards.md)
     * [Titan Plus Gift Pass](items/shop/gifts-shop/titan-plus-gift-pass.md)
 * [Black Market](items/black-market/README.md)
@@ -61,7 +62,7 @@
 * [Chests](items/chests.md)
 * [Trading](items/trading.md)
 * [Bank](items/bank/README.md)
-  * [Go to Bank](https://titan.tf/bank)
+  * [Bank](https://titan.tf/bank)
 * [Giveaways](items/giveaways.md)
 * [Casino](items/casino.md)
 * [Battle Pass](items/battle-pass.md)
@@ -94,7 +95,7 @@
 * [Storyline](history/storyline/README.md)
   * [Break the Safe](history/storyline/break-the-safe.md)
 
-## API \(Coming Soon\)
+## API \(Coming Soon\) <a id="api"></a>
 
 ## Freak Fortress
 

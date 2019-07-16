@@ -1,5 +1,5 @@
 ---
-description: 'A new way of earning event items, play for rewards.'
+description: 'A progressive way of earning event items, play for rewards.'
 ---
 
 # Battle Pass
