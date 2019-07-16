@@ -66,7 +66,6 @@
 * [Giveaways](items/giveaways.md)
 * [Casino](items/casino.md)
 * [Battle Pass](items/battle-pass.md)
-* [Daily Games](items/daily-games.md)
 * [Trading Cards](items/trading-cards.md)
 
 ## Support

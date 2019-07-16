@@ -1,14 +1,14 @@
 ---
-description: 'Exchange items, no taxes.'
+description: 'Exchange items, with no taxes.'
 ---
 
 # Trading
 
-Trading allow players to exchange items easily without limits. Trade offers are not done in real-time and are offers sent to someone to make a trade.
+Trading allows players to exchange items easily without limits. Trades are not executed in real time, a trade offer will be sent to the partner where they can accept or decline anytime before it expires.
 
-A live trading feature is being considered, but due to the number of security factors, it will be a challenge to implement.
+_\*a live trading feature is being considered, but due to the number of security factors, it is very challenging to implement._
 
-## The Basics
+## Trading Basics
 
 ### Trade Limits
 
@@ -68,5 +68,5 @@ Every part of the process, from receiving a trade offer, to the result of the tr
 
 With the increasing use of 2 factor authentications on every platform, the team has announced the possible implementation of this to both logins and trade confirmations in the future.
 
-There is no promises as to whether this feature will be implemented.
+There are no promises as to whether this feature will be implemented.
 
