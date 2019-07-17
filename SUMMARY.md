@@ -9,12 +9,12 @@
 
 * [Daily Tasks](website/daily-tasks.md)
 * [Emotes](website/emotes.md)
-* [Promotions](website/promotions/README.md)
-  * [Promotions](https://titan.tf/promotions)
 * [Referrals](website/referrals/README.md)
   * [Referral Link](https://titan.tf/referrals)
 * [Sponsorships](website/sponsorships/README.md)
   * [Sponsorships](https://titan.tf/sponsorships)
+* [Promotions](website/promotions/README.md)
+  * [Promotions](https://titan.tf/promotions)
 
 ## Titan Plus <a id="plus"></a>
 
@@ -42,13 +42,13 @@
 
 ## Items
 
-* [Rarities](items/rarities.md)
-* [Item Types](items/item-types.md)
 * [Currencies](items/currencies/README.md)
   * [Credits](items/currencies/untitled.md)
   * [Gems](items/currencies/gems/README.md)
     * [Gems Exchange](https://titan.tf/gems)
   * [Lucky Coins](items/currencies/lucky-coins.md)
+* [Rarities](items/rarities.md)
+* [Item Types](items/item-types.md)
 * [Shop](items/shop/README.md)
   * [Gifts Shop](items/shop/gifts-shop/README.md)
     * [Gifts Shop](https://titan.tf/gifts)
@@ -59,14 +59,14 @@
 * [Backpack](items/backpack/README.md)
   * [Sell](items/backpack/selling-items.md)
 * [Loadout](items/loadout.md)
+* [Battle Pass](items/battle-pass.md)
 * [Chests](items/chests.md)
-* [Trading](items/trading.md)
+* [Trading](items/trading/README.md)
+  * [Trading Cards](items/trading/trading-cards.md)
 * [Bank](items/bank/README.md)
   * [Bank](https://titan.tf/bank)
-* [Giveaways](items/giveaways.md)
 * [Casino](items/casino.md)
-* [Battle Pass](items/battle-pass.md)
-* [Trading Cards](items/trading-cards.md)
+* [Giveaways](items/giveaways.md)
 
 ## Support
 
