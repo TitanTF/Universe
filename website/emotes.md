@@ -8,7 +8,7 @@ Added in [Patch 2.0.33](https://steamcommunity.com/groups/titantf/discussions/11
 
 {% embed url="https://titan.tf/emotes" %}
 
-## Limits
+## ![](../.gitbook/assets/limit.png) Limits
 
 Regular users have a limit of 5 uploads, while Titan+ users have a limit of 100 \(increased from 50 in Patch 2.1.16\) uploads.
 

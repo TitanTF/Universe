@@ -6,7 +6,7 @@ description: Where everything is sold and can be bought from.
 
 ## Servers
 
-### Buying
+### ![](../../.gitbook/assets/buy.png) Buying
 
 You can buy items from the shop by typing !shop in chat while playing on a server. This command will draw a menu with multiple item categories.
 

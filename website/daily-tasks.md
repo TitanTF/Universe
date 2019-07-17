@@ -46,4 +46,5 @@ description: Collect gems for completing tasks that reset daily.
       <td style="text-align:left">5 Gems</td>
     </tr>
   </tbody>
-</table>
+</table>![](../.gitbook/assets/tasks.png)
+
