@@ -18,5 +18,5 @@ Titan regularly receives content and feature updates depending on ideas and issu
 
 ## Credits
 
-Icons used are from [FlatIcon](https://www.flaticon.com).
+> Icons used are provided by [FlatIcon](https://flaticon.com)
 
