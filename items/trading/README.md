@@ -8,7 +8,7 @@ description: 'Exchange items, with no taxes.'
 
 Trading allows players to exchange items easily without limits. Trades are not executed in real time, a trade offer will be sent to the partner where they can accept or decline anytime before it expires.
 
-_\*a live trading feature is being considered, but due to the number of security factors, it is very challenging to implement._
+> A live trading feature is being considered, but due to the number of security factors, it is very challenging to implement.
 
 ### ![](../../.gitbook/assets/limit.png) Trade Limits
 
