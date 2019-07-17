@@ -16,3 +16,7 @@ Titan Universe is the one place for everything Titan. Here you will discover the
 
 Titan regularly receives content and feature updates depending on ideas and issues that come about, which also includes bug fixes. There is no fixed interval between updates or release schedule.
 
+## Credits
+
+Icons used are from [FlatIcon](https://www.flaticon.com).
+

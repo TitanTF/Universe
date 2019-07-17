@@ -12,11 +12,11 @@ Through progressively completing daily quests and leveling up, players are able 
 
 A special battle pass that does not feature any items, and only Acrylic weapons and Winter 2018 chests. The weapons earned increases in size when the battle pass leveled up.
 
-![Item Image \(by Leeroy\)](../.gitbook/assets/image%20%283%29.png)
+![Item Image \(by Leeroy\)](../.gitbook/assets/image.png)
 
 ## Killing Camp Battle Pass
 
 Items Available: **255**
 
-![Item Image](../.gitbook/assets/image%20%282%29.png)
+![Item Image](../.gitbook/assets/image%20%283%29.png)
 
