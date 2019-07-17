@@ -4,6 +4,12 @@ description: Collect gems for completing tasks that reset daily.
 
 # Daily Tasks
 
+Complete a list of daily tasks on the website to earn gems. This is one of the easiest ways to obtain gems, and you should definitely commit to it!  
+  
+Tasks reset 24 hours after the previous completion. If you finish the "Visit Website" task at 11:52 PM today, you can do it again tomorrow at the exact same time. The reset timer is different for each task.
+
+![](../.gitbook/assets/tasks.png)
+
 <table>
   <thead>
     <tr>
@@ -46,5 +52,4 @@ description: Collect gems for completing tasks that reset daily.
       <td style="text-align:left">5 Gems</td>
     </tr>
   </tbody>
-</table>![](../.gitbook/assets/tasks.png)
-
+</table>
