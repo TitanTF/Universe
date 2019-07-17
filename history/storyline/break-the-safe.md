@@ -6,6 +6,8 @@ description: '15 September, 2017 - 4 October, 2017'
 
 Break the Safe is the community's first massive ARG \(alternate reality game\), also known as a story based event. The event came with a teaser and a trailer, along with multiple progression of events.
 
+![](../../.gitbook/assets/break-the-safe-01-wo-text.png)
+
 ### Event
 
 This was a message relayed from Team Titan to the Grand Council after discovering a locked safe in Sexton Co. Edit "Team Titan here, we have successfully intruded Sexton Co. and we found a safe estimated to be worth $10,000"

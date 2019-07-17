@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
+* [Glossary](glossary.md)
 * [FAQ](faq/README.md)
   * [Rules of Conduct](https://titan.tf/rules)
   * [Community Tracker](https://trello.com/b/zLIVdciy)
