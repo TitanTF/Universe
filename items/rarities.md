@@ -1,8 +1,12 @@
 ---
-description: Items come in different rarities.
+description: The list of item rarities available.
 ---
 
 # Rarities
+
+Items are split across different item rarities, and this is the full list of the item rarities that are currently available.
+
+![](../.gitbook/assets/shiny.png)
 
 <table>
   <thead>
