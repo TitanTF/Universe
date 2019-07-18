@@ -1,8 +1,12 @@
 ---
-description: Items are split across different item types.
+description: The list of item types available.
 ---
 
 # Item Types
+
+Items are split across different item types, and this is the full list of the item types that are currently available.
+
+![](../.gitbook/assets/shiny.png)
 
 <table>
   <thead>

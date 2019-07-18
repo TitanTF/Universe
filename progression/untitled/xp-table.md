@@ -1,6 +1,14 @@
+---
+description: The full list of events that award XP.
+---
+
 # XP Table
 
-More XP reward events are being planned. No release date announced.
+This is the current list of events that will award you XP. The amount of XP indicated for each event is the base XP and can be multiplied via [event multipliers](./).
+
+More events are being added over time.
+
+![](../../.gitbook/assets/xp_banner.png)
 
 <table>
   <thead>

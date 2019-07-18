@@ -1,6 +1,8 @@
 # Levels Table
 
-There is no level cap set for the leveling system, however the tier stops upgrading at level 3701. Players can level up indefinitely.
+There is no level cap set for the leveling system, however the tier stops upgrading at level 3701. Players can still level up indefinitely after that.
+
+![](../../.gitbook/assets/growth.png)
 
 | Level Range | Tier Name | Levels | XP / Level | Total XP | XP Accumulated |
 | :--- | :--- | :--- | :--- | :--- | :--- |
