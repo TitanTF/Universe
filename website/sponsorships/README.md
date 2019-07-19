@@ -4,6 +4,8 @@ description: Get paid for advertising our servers.
 
 # Sponsorships
 
+![](../../.gitbook/assets/sponsorship.png)
+
 ## YouTube
 
 Claim your sponsorship by submitting a video you have created based on titan.tf, **not longer than 2 weeks from the publish date**.

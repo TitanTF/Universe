@@ -14,6 +14,8 @@ When your friend signs up on the titan.tf website with your referral link, you a
 Anyone found to be abusing this feature will be **banned** from the website.
 {% endhint %}
 
+![](../../.gitbook/assets/referrals.png)
+
 ### Get your referral link by clicking on the link below, and share it with your friends to start earning!
 
 
