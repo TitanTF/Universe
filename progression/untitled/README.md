@@ -8,7 +8,7 @@ The amount of experience earned is determined by a variety of factors such as ev
 
 {% page-ref page="xp-table.md" %}
 
-### ![](../../.gitbook/assets/2x.png) Double XP Fridays
+### ![](../../.gitbook/assets/doublexp.png) Double XP Fridays
 
 It is a weekly automated global event that occurs on every Friday. Players who play during the event will gain twice the experience points awarded to them.
 
@@ -16,7 +16,7 @@ It is a weekly automated global event that occurs on every Friday. Players who p
 
 In addition to Double XP Fridays, if you have **titan.tf** in your name, you will receive an additional 2X experience points boost.
 
-### ![](../../.gitbook/assets/5.png) &lt; 5 Players
+### ![](../../.gitbook/assets/users.png) &lt; 5 Players
 
 All players receive a 2X bonus if there are less than 5 players on the server you are playing on. This is available all the time.
 

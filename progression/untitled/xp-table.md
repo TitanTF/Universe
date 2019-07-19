@@ -8,7 +8,7 @@ This is the current list of events that will award you XP. The amount of XP indi
 
 More events are being added over time.
 
-![](../../.gitbook/assets/xp_banner.png)
+![](../../.gitbook/assets/wizard.png)
 
 <table>
   <thead>

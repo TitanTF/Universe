@@ -1,5 +1,7 @@
 # Levels
 
+![](../../.gitbook/assets/growth.png)
+
 ### Level Tiers
 
 Each level tier consists a range of levels. The number of levels in each tier is fixed at 25 levels per tier for the first 150 levels and increased to 150 levels per tier after prestige.
