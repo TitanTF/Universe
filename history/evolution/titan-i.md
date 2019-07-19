@@ -10,3 +10,5 @@ Crazier stuff was added overtime, ones that were released by other developers. T
 
 **The exact founding date of titan.tf is unknown, but it is generally assumed to be the same date as the Steam group's creation.**
 
+![](../../.gitbook/assets/titan1.png)
+

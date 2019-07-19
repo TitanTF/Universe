@@ -8,3 +8,5 @@ Massive improvements were brought based on Titan II. Menus were improved and cha
 
 From there, they gathered even more funds to host a fast download server that has unlimited bandwidth, which meant that they could start to host more maps for gamemodes of all types.
 
+![](../../.gitbook/assets/titan3.png)
+

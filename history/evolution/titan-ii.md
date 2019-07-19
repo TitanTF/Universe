@@ -8,3 +8,5 @@ We also started adding more and more maps and missions, now with an insane colle
 
 However, this was when we started facing a serious issue. The more maps, the more bandwidth the download \(aka FastDL\) server has to consume. Ours was hosted on a free site back then, so bandwidth and space was limited. We had to continuously make new accounts because the bandwidth was always exceeding, not that we are saying spamming accounts are a good thing, but we really had no choice.
 
+![](../../.gitbook/assets/titan2.png)
+
