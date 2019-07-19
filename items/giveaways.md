@@ -14,6 +14,8 @@ Each giveaway can only have 1 winner, and only the winner of a giveaway will be 
 Items must be transferred from the inventory into the [bank](bank/) in order to deposit items into web-based casino games.
 {% endhint %}
 
+![](../.gitbook/assets/giveaways.png)
+
 ## Settings
 
 The length of a giveaway can be set with a maximum of up to 4 months. A limit to the maximum number of entries allowed can be set, but there is no cap to this number.

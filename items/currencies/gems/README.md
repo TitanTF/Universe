@@ -12,15 +12,17 @@ Players receive 1 gem every minute for playing on community servers.
 This currency does not drop by default. To replace your credit drops with gem drops, modify your [settings](https://titan.tf/settings).
 {% endhint %}
 
-## ![](../../../.gitbook/assets/2x.png) Weekend Multiplier
+![](../../../.gitbook/assets/gems_banner.png)
+
+### ![](../../../.gitbook/assets/2x.png) Weekend Multiplier
 
 If you have **titan.tf** in your name, you will receive a 2X gems drop boost during the weekend.
 
-## ![](../../../.gitbook/assets/twilight.png) TWILIGHT Hours
+### ![](../../../.gitbook/assets/twilight.png) TWILIGHT Hours
 
 All XP and Gems earned is quadrupled by 4X when playing from 12 AM to 9 AM on any day.
 
-## ![](../../../.gitbook/assets/gems.png) Gems Exchange
+### ![](../../../.gitbook/assets/gems.png) Gems Exchange
 
 <table>
   <thead>

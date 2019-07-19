@@ -10,6 +10,8 @@ Trading allows players to exchange items easily without limits. Trades are not e
 
 > A live trading feature is being considered, but due to the number of security factors, it is very challenging to implement.
 
+![](../../.gitbook/assets/trade.png)
+
 ### ![](../../.gitbook/assets/limit.png) Trade Limits
 
 There is currently no limit imposed to trades. You can send and receive as many items as you want in a single trade.

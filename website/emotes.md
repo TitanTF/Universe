@@ -6,6 +6,8 @@ description: Add some spice to your message.
 
 Added in [Patch 2.0.33](https://steamcommunity.com/groups/titantf/discussions/11/1733210552660130995/), anyone is allowed to upload their own images to be used as an emote across the entire website. Emotes can be used by everyone, regardless of who uploads it.
 
+![](../.gitbook/assets/emotes.png)
+
 {% embed url="https://titan.tf/emotes" %}
 
 ## ![](../.gitbook/assets/limit.png) Limits

@@ -34,7 +34,7 @@ Levels are calculated from experience points you earn by playing on our servers.
 
 There are over 3000 levels that support level tiers, which are the level badge prefix beside your name.
 
-## ![](../.gitbook/assets/chest.png) What are chests?
+## ![](../.gitbook/assets/chest%20%281%29.png) What are chests?
 
 Chests can only be obtained from leveling up. Certain event chests may be called a different name and can be obtain through other ways.
 

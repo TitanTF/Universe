@@ -8,6 +8,8 @@ The first battle pass was introduced in the Killing Camp update. A pass allows f
 
 Through progressively completing daily quests and leveling up, players are able to level up their battle pass and earn items throughout a battle pass.
 
+![](../.gitbook/assets/battlepass.png)
+
 ### ![](../.gitbook/assets/image.png) Tour of Destruction Battle Pass
 
 A special battle pass that does not feature any items, and only Acrylic weapons and Winter 2018 chests. The weapons earned increases in size when the battle pass leveled up.

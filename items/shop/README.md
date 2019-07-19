@@ -4,9 +4,11 @@ description: Where everything is sold and can be bought from.
 
 # Shop
 
+![](../../.gitbook/assets/shop.png)
+
 ## Servers
 
-### ![](../../.gitbook/assets/buy.png) Buying
+### ![](../../.gitbook/assets/buy.png) Buying items
 
 You can buy items from the shop by typing !shop in chat while playing on a server. This command will draw a menu with multiple item categories.
 
@@ -14,12 +16,9 @@ Selecting a category will draw a list of items in that category. You can always 
 
 You can select an item in the item listing menu to view more information on the item such as its description and pricing.
 
-### Blocked Buttons
+### ![](../../.gitbook/assets/limit.png) Blocked Buttons
 
-If the purchase button is blocked out for any of the purchase types, it means that you either do not have enough
-
-* balance in your wallet to purchase that deal
-* backpack slots to receive the new items from the deal
+If the purchase button is blocked out for any of the purchase types, it means that you do not have enough Titan credits to grab that deal.
 
 ## Website
 

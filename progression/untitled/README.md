@@ -4,6 +4,8 @@ Experience Points, also known as XP or EXP in short, can be earned by playing on
 
 The amount of experience earned is determined by a variety of factors such as event multipliers. Experience points are awarded immediately when an action is performed.
 
+![](../../.gitbook/assets/xp_banner.png)
+
 {% page-ref page="xp-table.md" %}
 
 ### ![](../../.gitbook/assets/2x.png) Double XP Fridays

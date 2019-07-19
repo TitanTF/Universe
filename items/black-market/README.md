@@ -2,6 +2,8 @@
 
 The black market is an item exchange market where players can put up their items for sale at any price they want, or buy items from the market for possibly a cheaper price than what the item shop offers.
 
+![](../../.gitbook/assets/blackmarket.png)
+
 ### ![](../../.gitbook/assets/limit.png) Limits
 
 You can only sell your items for less than 2X of the original item price. This limit does not apply to items with no value.

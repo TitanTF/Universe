@@ -6,13 +6,15 @@ description: What's going to be inside?
 
 Opening a chest gets you a random item from the game. Normal chests have 5 rarities available; **Common, Uncommon, Rare, Epic, and Legendary**. There are no Mythic chests.
 
+![](../.gitbook/assets/chest.png)
+
 ![Level Chests Infographic](../.gitbook/assets/chests_explained.png)
 
 ### \*\*\*\*![](../.gitbook/assets/validate.png) **Availability**
 
 Chests can be obtained from leveling up. Event chests may be available through promotions.
 
-### ![](../.gitbook/assets/chest.png) Chest Drops
+### ![](../.gitbook/assets/chest%20%281%29.png) Chest Drops
 
 When normal chests drop upon leveling up, the rarity of the chest is determined by the new level number.
 

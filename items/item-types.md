@@ -6,7 +6,7 @@ description: The list of item types available.
 
 Items are split across different item types, and this is the full list of the item types that are currently available.
 
-![](../.gitbook/assets/shiny.png)
+![](../.gitbook/assets/itemtypes.png)
 
 <table>
   <thead>
