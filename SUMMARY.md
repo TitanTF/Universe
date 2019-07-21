@@ -43,6 +43,8 @@
 
 ## Quests
 
+* [Untitled](quests/untitled.md)
+
 ## Challenges
 
 ## Titan Plus <a id="plus"></a>
