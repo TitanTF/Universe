@@ -16,7 +16,7 @@ It is a weekly automated global event that occurs on every Friday. Players who p
 
 In addition to Double XP Fridays, if you have **titan.tf** in your name, you will receive an additional 2X experience points boost.
 
-### ![](../../.gitbook/assets/users.png) &lt; 5 Players
+### ![](../../.gitbook/assets/users.png) Seeder's Bonus
 
 All players receive a 2X bonus if there are less than 5 players on the server you are playing on. This is available all the time.
 
