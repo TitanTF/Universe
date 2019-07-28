@@ -40,6 +40,7 @@
   * [Bank](https://titan.tf/bank)
 * [Casino](items/casino.md)
 * [Giveaways](items/giveaways.md)
+* [Content Packs](items/content-packs.md)
 
 ## Quests
 
