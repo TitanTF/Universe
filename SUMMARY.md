@@ -57,6 +57,10 @@
 * [Titan Improvement Project \(TIP\)](fix/information/README.md)
   * [Fix Titan.TF](https://fix.titan.tf)
 
+## Servers
+
+* [Chat Prefixes](servers/chat-prefixes.md)
+
 ## Website
 
 * [Daily Tasks](website/daily-tasks.md)

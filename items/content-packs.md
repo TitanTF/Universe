@@ -18,9 +18,9 @@ steam://connect/download.titan.tf:11111
 
 Alternatively, you can enable your Team Fortress 2 developer console and connect through it by following the screenshots below.
 
-![Enabling Team Fortress 2 Developer Console](../.gitbook/assets/image%20%285%29.png)
+![Enabling Team Fortress 2 Developer Console](../.gitbook/assets/image%20%287%29.png)
 
-![Connecting to a Server through Console](../.gitbook/assets/image%20%284%29.png)
+![Connecting to a Server through Console](../.gitbook/assets/image%20%286%29.png)
 
 ### Updating
 
@@ -34,7 +34,7 @@ Players who do not download the optional content pack will not see the emotes yo
 
 ### Volume
 
-You can adjust the volume of sounds played if you have the optional content pack installed. Head over to the [settings](https://titan.tf/settings) page, and follow the screenshot below.
+You can adjust the volume of sounds played if you have the optional content pack installed. Head over to [settings](https://titan.tf/settings), and follow the screenshot below.
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
