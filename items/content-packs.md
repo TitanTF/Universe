@@ -2,7 +2,7 @@
 description: Required for seeing and hearing items.
 ---
 
-# Content Packs
+# Content Pack
 
 All item sounds, emotes and trails are part of what is known as the "optional content pack". This content pack is optional and does not download automatically when you connect to any of of our community game servers. This is done to eliminate download times for players who only want to play on the servers without ever using these items.
 

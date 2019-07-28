@@ -15,6 +15,7 @@
 
 ## Items
 
+* [Content Pack](items/content-packs.md)
 * [Currencies](items/currencies/README.md)
   * [Credits](items/currencies/untitled.md)
   * [Gems](items/currencies/gems/README.md)
@@ -40,7 +41,6 @@
   * [Bank](https://titan.tf/bank)
 * [Casino](items/casino.md)
 * [Giveaways](items/giveaways.md)
-* [Content Packs](items/content-packs.md)
 
 ## Quests
 
