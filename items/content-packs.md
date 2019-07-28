@@ -26,7 +26,7 @@ Alternatively, you can enable your Team Fortress 2 developer console and connect
 
 Updating is the same as the installation process. You can update your content pack by connecting to the content distributor at the IP address: **download.titan.tf:11111**
 
-Similarly, you can follow the connection guide in the installation section above if you do not know how to connect to a server using the server's IP address.
+Similarly, you can follow the connection guide in the [installation section](https://app.gitbook.com/@titantf/s/wiki/items/content-packs#installation) above if you do not know how to connect to a server using the server's IP address.
 
 ### Visibility
 
