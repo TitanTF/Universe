@@ -50,6 +50,8 @@
 
 ## Titan Plus <a id="plus"></a>
 
+* [Perks](plus/perks/README.md)
+  * [Lost Trails](plus/perks/lost-trails.md)
 * [Subscribe to Plus](https://titan.tf/plus)
 
 ## Fix Titan.TF <a id="fix"></a>
@@ -106,5 +108,8 @@
 
 * [Boss Packs](freak-fortress/boss-packs.md)
 
-## API \(Coming Soon\) <a id="api"></a>
+## API
+
+* [RSS](api/rss.md)
+* [REST](api/rest.md)
 
