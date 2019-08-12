@@ -62,6 +62,8 @@
 ## Servers
 
 * [Chat Prefixes](servers/chat-prefixes.md)
+* [Easter Eggs](servers/easter-eggs/README.md)
+  * ['42' Messages](servers/easter-eggs/42-messages.md)
 
 ## Website
 
@@ -73,6 +75,7 @@
   * [Sponsorships](https://titan.tf/sponsorships)
 * [Promotions](website/promotions/README.md)
   * [Promotions](https://titan.tf/promotions)
+* [Easter Eggs](website/easter-eggs.md)
 
 ## Creators Hub \(Coming Soon\) <a id="creators-hub"></a>
 
