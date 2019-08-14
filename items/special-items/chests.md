@@ -6,15 +6,15 @@ description: What's going to be inside?
 
 Opening a chest gets you a random item from the game. Normal chests have 5 rarities available; **Common, Uncommon, Rare, Epic, and Legendary**. There are no Mythic chests.
 
-![](../.gitbook/assets/chest.png)
+![](../../.gitbook/assets/chest.png)
 
-![Level Chests Infographic](../.gitbook/assets/chests_explained.png)
+![Level Chests Infographic](../../.gitbook/assets/chests_explained.png)
 
-### \*\*\*\*![](../.gitbook/assets/validate.png) **Availability**
+### \*\*\*\*![](../../.gitbook/assets/validate.png) **Availability**
 
 Chests can be obtained from leveling up. Event chests may be available through promotions.
 
-### ![](../.gitbook/assets/chest%20%281%29.png) Chest Drops
+### ![](../../.gitbook/assets/chest%20%281%29.png) Chest Drops
 
 When normal chests drop upon leveling up, the rarity of the chest is determined by the new level number.
 
@@ -28,7 +28,7 @@ The hundreds and thousands places are removed from the new level number to obtai
 | Uncommon | 2, 4, 6, 8, 12, 14, 16, 18, 22, 24, 26, 28, 32, 34, 36, 38, 42, 44, 46, 48, 52, 54, 56, 58, 62, 64, 66, 68, 72, 74, 76, 78, 82, 84, 86, 88, 92, 94, 96, 98 |
 | Common | 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99 |
 
-## ![](../.gitbook/assets/key.png) Opening Chests
+## ![](../../.gitbook/assets/key.png) Opening Chests
 
 The chest's rarity determines the rarity of the item output from the chest. If the chest is a legendary, the item will be a guaranteed legendary rarity item.
 
@@ -58,7 +58,7 @@ Click on a chest to open it, and use the mass chest opening tool to automaticall
 
 **Opening chests on the website instantly presents the item unboxed.**
 
-## ![](../.gitbook/assets/promo.png) Event Chests
+## ![](../../.gitbook/assets/promo.png) Event Chests
 
 | Event Chest | Availability |
 | :--- | :--- |

@@ -6,6 +6,11 @@
   * [Rules of Conduct](https://titan.tf/rules)
   * [Community Tracker](https://trello.com/b/zLIVdciy)
 
+## Personal
+
+* [Player Profiles](personal/player-profiles.md)
+* [Settings](personal/settings.md)
+
 ## Progression
 
 * [Experience Points](progression/untitled/README.md)
@@ -28,7 +33,10 @@
 * [Types](items/item-types.md)
 * [Rarities](items/rarities.md)
 * [Special Items](items/special-items/README.md)
+  * [Chests](items/special-items/chests.md)
   * [Trading Cards](items/special-items/trading-cards.md)
+  * [Supply Drop Fragments](items/special-items/supply-drop-fragments.md)
+  * [Supply Chest Fragments](items/special-items/supply-chest-fragments.md)
 * [Shop](items/shop/README.md)
   * [Gifts Shop](items/shop/gifts-shop/README.md)
     * [Gifts Shop](https://titan.tf/gifts)
@@ -40,8 +48,8 @@
   * [Sell](items/backpack/selling-items.md)
 * [Loadout](items/loadout/README.md)
   * [Random Loadouts](items/loadout/random-loadouts.md)
+* [Supply Crates](items/supply-crates.md)
 * [Battle Pass](items/battle-pass.md)
-* [Chests](items/chests.md)
 * [Trading](items/trading.md)
 * [Bank](items/bank/README.md)
   * [Bank](https://titan.tf/bank)
@@ -67,7 +75,10 @@
 
 ## Servers
 
+* [Commands](servers/commands.md)
 * [Chat Prefixes](servers/chat-prefixes.md)
+* [Supply Drops](servers/supply-drops.md)
+* [Supply Chests](servers/supply-chests.md)
 * [Easter Eggs](servers/easter-eggs/README.md)
   * ['42' Messages](servers/easter-eggs/42-messages.md)
 
@@ -99,7 +110,7 @@
 
 ## Support
 
-* [Download Server](http://novus.site.nfoservers.com/tf)
+* [Download Server](https://cdn.titan.tf)
 
 ## Applications
 
