@@ -4,11 +4,11 @@ description: Fetch information from Titan via RSS feeds
 
 # RSS
 
-| Application | Description | Link | Parameters |
+| Application | Link | Description | Parameters |
 | :--- | :--- | :--- | :--- |
-| Fix Titan.TF | List of the recent 20 discussions | [https://fix.titan.tf/rss](https://fix.titan.tf/rss) | - |
-| Activity | List of the recent 5 activity posts | [https://titan.tf/rss\_activity.php](https://titan.tf/rss_activity.php) | - |
-| Blog | List of the recent 5 blog posts | [https://titan.tf/rss\_blogs.php](https://titan.tf/rss_blogs.php) | - |
-| Forum | List of the recent 5 forum threads | [https://titan.tf/rss\_forum.php](https://titan.tf/rss_forum.php) | - |
-| Patch Notes | List of the recent 5 patch notes | [https://titan.tf/rss\_patches.php](https://titan.tf/rss_patches.php) |  |
+| Fix Titan.TF | [https://fix.titan.tf/rss](https://fix.titan.tf/rss) | Recent 20 Discussions |  |
+| Activity | [https://titan.tf/rss\_activity](%20https://titan.tf/rss_activity) | Recent 5 Activity Posts |  |
+| Blog | [https://titan.tf/rss\_blogs](%20https://titan.tf/rss_blogs) | Recent 5 Blog Posts |  |
+| Forum | [https://titan.tf/rss\_forum](https://titan.tf/rss_forum) | Recent 5 Forum Threads |  |
+| Patch Notes | [https://titan.tf/rss\_patches](%20https://titan.tf/rss_patches) | Recent 5 Patch Notes |  |
 

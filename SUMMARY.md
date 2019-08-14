@@ -138,6 +138,6 @@
 
 ## API
 
-* [REST](api/rest.md)
 * [RSS](api/rss.md)
+* [REST](api/rest.md)
 
