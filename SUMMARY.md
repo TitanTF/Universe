@@ -121,6 +121,7 @@
 
 ## History
 
+* [Timeline](history/timeline.md)
 * [Evolution](history/evolution/README.md)
   * [Titan I](history/evolution/titan-i.md)
   * [Titan II](history/evolution/titan-ii.md)
@@ -128,7 +129,6 @@
   * [Titan IV](history/evolution/titan-iv.md)
   * [Titan 2](history/evolution/titan-2.md)
   * [Titan 2.1](history/evolution/titan-2.1.md)
-* [Timeline](history/timeline.md)
 * [Storyline](history/storyline/README.md)
   * [Break the Safe](history/storyline/break-the-safe.md)
 

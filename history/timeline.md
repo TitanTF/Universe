@@ -8,6 +8,14 @@ description: The timeline includes major updates and events.
 
 {% embed url="https://www.youtube.com/watch?v=gFzsmiiY6aM" %}
 
+## Circle of Mysteries \(Patch 2.1.55\)
+
+August 11, 2019 - 11 September, 2019
+
+To celebrate the Founder's birthday, the mini event gave players a chance to receive a free month of Titan Plus subscription for completing "Chronos" challenges. There were a total of 10 challenges, where 2 new challenges in the pack unlock every 2 days.
+
+This update also introduced Lost Trails as a new perk to Titan+.
+
 ## Pewdiepie Update \(Patch 2.1.26\)
 
 No Specific Date
@@ -16,7 +24,7 @@ No Specific Date
 
 ## Temperature of Love \(Patch 2.1.17\)
 
-11 February, 2019- 18 February, 2019
+11 February, 2019 - 18 February, 2019
 
 {% embed url="https://titan.tf/blog/14" %}
 
@@ -130,5 +138,5 @@ The reboot update also resets the version number to 1.0 and removes all the chan
 
 2015
 
-No information available.
+Not much information is available with regards to what happened before this.
 
