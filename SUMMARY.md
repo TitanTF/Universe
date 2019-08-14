@@ -13,6 +13,10 @@
 * [Levels](progression/levels/README.md)
   * [Levels Table](progression/levels/levels-table.md)
 
+## Leaderboards
+
+* [Untitled](leaderboards/untitled.md)
+
 ## Items
 
 * [Content Pack](items/content-packs.md)
@@ -21,8 +25,10 @@
   * [Gems](items/currencies/gems/README.md)
     * [Gems Exchange](https://titan.tf/gems)
   * [Lucky Coins](items/currencies/lucky-coins.md)
+* [Types](items/item-types.md)
 * [Rarities](items/rarities.md)
-* [Item Types](items/item-types.md)
+* [Special Items](items/special-items/README.md)
+  * [Trading Cards](items/special-items/trading-cards.md)
 * [Shop](items/shop/README.md)
   * [Gifts Shop](items/shop/gifts-shop/README.md)
     * [Gifts Shop](https://titan.tf/gifts)
@@ -32,11 +38,11 @@
   * [Mystery Boxes](items/black-market/mystery-boxes.md)
 * [Backpack](items/backpack/README.md)
   * [Sell](items/backpack/selling-items.md)
-* [Loadout](items/loadout.md)
+* [Loadout](items/loadout/README.md)
+  * [Random Loadouts](items/loadout/random-loadouts.md)
 * [Battle Pass](items/battle-pass.md)
 * [Chests](items/chests.md)
-* [Trading](items/trading/README.md)
-  * [Trading Cards](items/trading/trading-cards.md)
+* [Trading](items/trading.md)
 * [Bank](items/bank/README.md)
   * [Bank](https://titan.tf/bank)
 * [Casino](items/casino.md)
@@ -67,8 +73,10 @@
 
 ## Website
 
-* [Daily Tasks](website/daily-tasks.md)
 * [Emotes](website/emotes.md)
+* [Activity Posts](website/activity-posts.md)
+* [Forums](website/forums.md)
+* [Daily Tasks](website/daily-tasks.md)
 * [Referrals](website/referrals/README.md)
   * [Referral Link](https://titan.tf/referrals)
 * [Sponsorships](website/sponsorships/README.md)
@@ -76,6 +84,10 @@
 * [Promotions](website/promotions/README.md)
   * [Promotions](https://titan.tf/promotions)
 * [Easter Eggs](website/easter-eggs.md)
+
+## Maps Center
+
+* [Untitled](maps-center/untitled.md)
 
 ## Creators Hub \(Coming Soon\) <a id="creators-hub"></a>
 
@@ -93,6 +105,8 @@
 
 * [Apply for Moderator](https://titan.tf/apply?mod)
 * [Moderator's Manual](https://mods.titan.tf/)
+
+## Others
 
 ## History
 
@@ -113,6 +127,6 @@
 
 ## API
 
-* [RSS](api/rss.md)
 * [REST](api/rest.md)
+* [RSS](api/rss.md)
 

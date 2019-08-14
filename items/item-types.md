@@ -2,7 +2,7 @@
 description: The list of item types available.
 ---
 
-# Item Types
+# Types
 
 Items are split across different item types, and this is the full list of the item types that are currently available.
 
