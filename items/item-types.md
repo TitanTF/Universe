@@ -29,19 +29,19 @@ Items are split across different item types, and this is the full list of the it
         used.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Action</td>
-      <td style="text-align:left">Action items trigger certain gameplay events.
+      <td style="text-align:left">Consumables</td>
+      <td style="text-align:left">Consumables result in a gameplay event.
         <br /><b>These are one-time use only.</b>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Name Tag</td>
-      <td style="text-align:left">Name tags appear infront of a player&apos;s name when equipped in-game.</td>
+      <td style="text-align:left">Name tags appear in front of a player&apos;s name when equipped in-game.</td>
     </tr>
     <tr>
       <td style="text-align:left">Signature Name Tag</td>
       <td style="text-align:left">
-        <p>Similar to name tags, signature name tags also appear infront of a player&apos;s
+        <p>Similar to name tags, signature name tags also appear in front of a player&apos;s
           name when equipped in name tag loadout slots.</p>
         <p>
           <br /><b>Loadout</b>
@@ -150,8 +150,7 @@ Items are split across different item types, and this is the full list of the it
     <tr>
       <td style="text-align:left">Spray</td>
       <td style="text-align:left">
-        <p>A cancelled item type that was originally going to allow emotes to be
-          sprayed onto surfaces on the map.</p>
+        <p>Sprays allow emotes to be sprayed onto surfaces on the map.</p>
         <p></p>
         <p><b>Loadout</b>
         </p>
