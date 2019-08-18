@@ -62,6 +62,9 @@
 
 ## Challenges
 
+* [Modules](challenges/modules.md)
+* [Parameters](challenges/parameters.md)
+
 ## Missions
 
 * [Untitled](missions/untitled.md)
