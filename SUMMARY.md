@@ -37,6 +37,8 @@
   * [Trading Cards](items/special-items/trading-cards.md)
   * [Supply Drop Fragments](items/special-items/supply-drop-fragments.md)
   * [Supply Chest Fragments](items/special-items/supply-chest-fragments.md)
+  * [Black and White Knight Name Tags](items/special-items/black-and-white-knight-name-tags.md)
+  * [Mythic Name Tags](items/special-items/mythic-name-tags.md)
 * [Shop](items/shop/README.md)
   * [Gifts Shop](items/shop/gifts-shop/README.md)
     * [Gifts Shop](https://titan.tf/gifts)
