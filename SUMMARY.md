@@ -61,11 +61,14 @@
 ## Quests
 
 * [Untitled](quests/untitled.md)
+* [Pins](quests/pins.md)
+* [Replace](quests/replace.md)
+* [Reports](quests/reports.md)
 
-## Challenges
+## Titan Law <a id="titanlaw"></a>
 
-* [Modules](challenges/modules.md)
-* [Parameters](challenges/parameters.md)
+* [Modules](titanlaw/modules.md)
+* [Parameters](titanlaw/parameters.md)
 
 ## Missions
 
