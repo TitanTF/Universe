@@ -11,6 +11,7 @@
 | `credit` | Earn Credits | - |
 | `damage` | Deal Damage | - |
 | `damage_tank` | MvM - Damage Tanks | - |
+| `daze_end` | Player Exits Dazed Condition | - |
 | `deflect` | Deflect Projectiles | - |
 | `deply_banner` | Deploy Banner | - |
 | `deply_ubercharge` | Deploy Ubercharge | - |
@@ -41,6 +42,7 @@
 | `play_round` | Play Rounds | - |
 | `play_time` | Play Time \(mins\) | - |
 | `play_wave` | MvM - Play Waves | - |
+| `reanimate` | Use Reanimator | - |
 | `reset_bomb` | Mvm - Reset Bombs | - |
 | `revive_player` | Revive Players | - |
 | `sf_escape` | SF - Escape | - |

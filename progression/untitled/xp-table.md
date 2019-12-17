@@ -24,32 +24,27 @@ More events are being added over time.
     </tr>
     <tr>
       <td style="text-align:left">Elimination Assist</td>
-      <td style="text-align:left">15</td>
+      <td style="text-align:left">10</td>
     </tr>
     <tr>
       <td style="text-align:left">Win a Round</td>
-      <td style="text-align:left">150</td>
+      <td style="text-align:left">475</td>
     </tr>
     <tr>
       <td style="text-align:left">Win a Round While Alive</td>
-      <td style="text-align:left">200</td>
+      <td style="text-align:left">500</td>
     </tr>
     <tr>
-      <td style="text-align:left">Time</td>
-      <td style="text-align:left">
-        <p>0.066667/sec</p>
-        <p>4/min
-          <br />40/10min</p>
-        <p>240/hr</p>
-      </td>
+      <td style="text-align:left">Finish a Round (did not win)</td>
+      <td style="text-align:left">300</td>
     </tr>
     <tr>
       <td style="text-align:left">Time While Alive</td>
       <td style="text-align:left">
-        <p>0.1/sec</p>
-        <p>6/min
-          <br />60/10min</p>
-        <p>360/hr</p>
+        <p>0.16667/sec</p>
+        <p>10/min
+          <br />100/10min</p>
+        <p>600/hr</p>
       </td>
     </tr>
     <tr>
@@ -61,8 +56,12 @@ More events are being added over time.
       <td style="text-align:left">0.1625</td>
     </tr>
     <tr>
+      <td style="text-align:left">Tank Destroyed</td>
+      <td style="text-align:left">50</td>
+    </tr>
+    <tr>
       <td style="text-align:left">Complete a Mission in Mann vs Machine</td>
-      <td style="text-align:left">1,000</td>
+      <td style="text-align:left">2,000</td>
     </tr>
   </tbody>
 </table>
