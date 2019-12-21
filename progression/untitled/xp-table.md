@@ -10,7 +10,7 @@ More events are being added over time.
 
 ![](../../.gitbook/assets/wizard.png)
 
-### Normal Gamemodes
+### All Gamemodes
 
 <table>
   <thead>
@@ -20,6 +20,15 @@ More events are being added over time.
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left">Play Time</td>
+      <td style="text-align:left">
+        <p>0.28333/sec</p>
+        <p>17/min
+          <br />170/10min</p>
+        <p>1,020/hr</p>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left">Elimination</td>
       <td style="text-align:left">30</td>
@@ -29,81 +38,53 @@ More events are being added over time.
       <td style="text-align:left">10</td>
     </tr>
     <tr>
-      <td style="text-align:left">Arena - Win a Round (not alive)</td>
-      <td style="text-align:left">475</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Arena - Win a Round (alive)</td>
-      <td style="text-align:left">500</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Non-Arena - Win a Round</td>
-      <td style="text-align:left">500</td>
+      <td style="text-align:left">Deal Damage</td>
+      <td style="text-align:left">200/1,000 damage</td>
     </tr>
     <tr>
       <td style="text-align:left">Finish a Round (did not win)</td>
       <td style="text-align:left">300</td>
     </tr>
     <tr>
-      <td style="text-align:left">Time While Alive</td>
-      <td style="text-align:left">
-        <p>0.16667/sec</p>
-        <p>10/min
-          <br />100/10min</p>
-        <p>600/hr</p>
-      </td>
+      <td style="text-align:left">Pick Up Supply Drop Fragments</td>
+      <td style="text-align:left">5</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Loot a Supply Chest</td>
+      <td style="text-align:left">20</td>
     </tr>
   </tbody>
-</table>### Mann vs Machine
+</table>### Normal Gamemodes
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Event</th>
-      <th style="text-align:left">XP</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Time While Alive</td>
-      <td style="text-align:left">
-        <p>0.16667/sec</p>
-        <p>10/min
-          <br />100/10min</p>
-        <p>600/hr</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Robot Elimination</td>
-      <td style="text-align:left">0.325</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Robot Elimination Assist</td>
-      <td style="text-align:left">0.1625</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Giant Robot Elimination</td>
-      <td style="text-align:left">15</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Giant Robot Elimination Assist</td>
-      <td style="text-align:left">3</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Tank Destroyed</td>
-      <td style="text-align:left">30</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Complete a Wave</td>
-      <td style="text-align:left">200</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Finish a Wave (did not win)</td>
-      <td style="text-align:left">100</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Complete a Mission</td>
-      <td style="text-align:left">2,000</td>
-    </tr>
-  </tbody>
-</table>
+| Event | XP |
+| :--- | :--- |
+| Win a Round | 500 |
+
+### Arena Gamemodes
+
+| Event | XP |
+| :--- | :--- |
+| Deal Damage | 200/1,000 damage |
+| Win a Round \(not alive\) | 475 |
+| Win a Round \(alive\) | 50 |
+
+### Boss Gamemodes
+
+| Event | XP |
+| :--- | :--- |
+| Deal Damage | 200/3,000 damage |
+
+### Mann vs Machine
+
+| Event | XP |
+| :--- | :--- |
+| Robot Elimination | 0.325 |
+| Robot Elimination Assist | 0.1625 |
+| Giant Robot Elimination | 15 |
+| Giant Robot Elimination Assist | 3 |
+| Deal Damage | 200/5,000 damage |
+| Tank Destroyed | 30 |
+| Complete a Wave | 200 |
+| Finish a Wave \(did not win\) | 100 |
+| Complete a Mission | 2,000 |
+
