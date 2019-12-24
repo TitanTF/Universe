@@ -33,6 +33,7 @@
 * [Types](items/item-types.md)
 * [Rarities](items/rarities.md)
 * [Special Items](items/special-items/README.md)
+  * [EXP Packs](items/special-items/exp-packs.md)
   * [Chests](items/special-items/chests.md)
   * [Trading Cards](items/special-items/trading-cards.md)
   * [Supply Drop Fragments](items/special-items/supply-drop-fragments.md)
@@ -89,8 +90,13 @@
 
 * [Commands](servers/commands.md)
 * [Chat Prefixes](servers/chat-prefixes.md)
-* [Supply Drops](servers/supply-drops.md)
-* [Supply Chests](servers/supply-chests.md)
+* [Supplies](servers/supplies/README.md)
+  * [Supply Drops](servers/supplies/supply-drops.md)
+  * [Supply Chests](servers/supplies/supply-chests.md)
+  * [Supply Faucets](servers/supplies/supply-faucets.md)
+* [Loot](servers/loot/README.md)
+  * [XP Drops](servers/loot/xp-drops.md)
+  * [Gem Drops](servers/loot/gem-drops.md)
 * [Easter Eggs](servers/easter-eggs/README.md)
   * ['42' Messages](servers/easter-eggs/42-messages.md)
 

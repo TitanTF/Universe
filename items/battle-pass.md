@@ -16,9 +16,9 @@ A special battle pass that does not feature any items, and only Acrylic weapons 
 
 ![Item Image \(by Leeroy\)](../.gitbook/assets/image.png)
 
-### ![](../.gitbook/assets/image%20%289%29.png) Killing Camp Battle Pass
+### ![](../.gitbook/assets/image%20%2813%29.png) Killing Camp Battle Pass
 
 Items Available: **255**
 
-![Item Image](../.gitbook/assets/image%20%289%29.png)
+![Item Image](../.gitbook/assets/image%20%2813%29.png)
 
