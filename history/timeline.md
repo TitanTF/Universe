@@ -8,6 +8,18 @@ description: The timeline includes major updates and events.
 
 {% embed url="https://www.youtube.com/watch?v=gFzsmiiY6aM" %}
 
+## Christmas Wonderland 2019 \(Patch 2.1.59\)
+
+December 25, 2019 - 31 January, 2019
+
+Players can earn a ton of gems by playing on the events server hosting 31 community-made Winter themed maps and completing challenges.
+
+## Decade's Final Sprint - Year 2020 Event \(Patch 2.1.59\)
+
+December 21, 2019 - 11 January, 2019
+
+To celebrate the end of a decade, XP and gems were doubled during the period.
+
 ## Circle of Mysteries \(Patch 2.1.55\)
 
 August 11, 2019 - 11 September, 2019
