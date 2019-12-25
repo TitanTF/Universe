@@ -11,6 +11,7 @@ This is the list of chat prefixes available:
 * Levels
 * Level Tiers
 * Rank
+* National Rank
 * Money
 * Gems
 * Kills

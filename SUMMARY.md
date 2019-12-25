@@ -66,14 +66,18 @@
 * [Replace](quests/replace.md)
 * [Reports](quests/reports.md)
 
-## Titan Law <a id="titanlaw"></a>
+## Challenges
 
-* [Modules](titanlaw/modules.md)
-* [Parameters](titanlaw/parameters.md)
+* [Untitled](challenges/untitled.md)
 
 ## Missions
 
 * [Untitled](missions/untitled.md)
+
+## Titan Law <a id="titanlaw"></a>
+
+* [Modules](titanlaw/modules.md)
+* [Parameters](titanlaw/parameters.md)
 
 ## Titan Plus <a id="plus"></a>
 
