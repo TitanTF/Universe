@@ -84,7 +84,7 @@ More events are being added over time.
 | Giant Robot Elimination Assist | 3 |
 | Deal Damage | 200/5,000 damage |
 | Tank Destroyed | 30 |
-| Complete a Wave | 200 |
-| Finish a Wave \(did not win\) | 100 |
+| Complete a Wave \(except last wave\) | 200 |
+| Finish a Wave \(did not win, except last wave\) | 100 |
 | Complete a Mission | 2,000 |
 
