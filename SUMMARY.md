@@ -90,6 +90,10 @@
 * [Titan Improvement Project \(TIP\)](fix/information/README.md)
   * [Fix Titan.TF](https://fix.titan.tf)
 
+## Events
+
+* [Daily Raids](events/daily-raids.md)
+
 ## Servers
 
 * [Commands](servers/commands.md)
@@ -157,6 +161,13 @@
 ## Gamemode: Freak Fortress <a id="freak-fortress"></a>
 
 * [Boss Packs](freak-fortress/boss-packs.md)
+
+## Technologies
+
+* [Optional Content](technologies/optional-content.md)
+* [Content Distributor](technologies/content-distributor.md)
+* [Web-Game Integration](technologies/web-game-integration.md)
+* [Titan Law](technologies/titan-law.md)
 
 ## API
 
