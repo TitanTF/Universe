@@ -152,6 +152,10 @@
 * [Apply for Moderator](https://titan.tf/apply?mod)
 * [Moderator's Manual](https://mods.titan.tf/)
 
+## Fundraisers
+
+* [Rise of Region \(ROG\)](fundraisers/rise-of-region-rog.md)
+
 ## Others
 
 ## History
