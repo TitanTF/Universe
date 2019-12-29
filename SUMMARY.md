@@ -101,7 +101,7 @@
 ## Events
 
 * [Daily Raids](events/daily-raids.md)
-* [Last To Leave Server](events/last-to-leave-server.md)
+* [Last To Leave](events/last-to-leave.md)
 
 ## Servers
 
