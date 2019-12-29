@@ -75,5 +75,5 @@ Submit a new application, or track your previously submitted applications with t
 
 ## ![](../.gitbook/assets/promo.png) How do I use a promo code?
 
-Enter it into the link above. Use promo code **WEEKY** to receive 100 gems!
+Enter it into the link above. Use promo code **UNIVERSE** to receive 100 gems!
 
