@@ -12,13 +12,14 @@ Through progressively completing daily quests and leveling up, players are able 
 
 ### ![](../.gitbook/assets/image.png) Tour of Destruction Battle Pass
 
-A special battle pass that does not feature any items, and only Acrylic weapons and Winter 2018 chests. The weapons earned increases in size when the battle pass leveled up.
+A special battle pass that does not feature any items, and only Acrylic weapons and Winter 2018 chests. The Acrylic weapons earned increases in size when the battle pass leveled up.
 
 ![Item Image \(by Leeroy\)](../.gitbook/assets/image.png)
 
 ### ![](../.gitbook/assets/image%20%2814%29.png) Killing Camp Battle Pass
 
-Items Available: **255**
+The first ever battle pass introduced to Titan.  
+**255** items were available in this pass.
 
 ![Item Image](../.gitbook/assets/image%20%2814%29.png)
 

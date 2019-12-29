@@ -20,6 +20,7 @@
 
 ## Leaderboards
 
+* [Overview](leaderboards/overview.md)
 * [Overall](leaderboards/overall.md)
 * [National](leaderboards/national.md)
 * [Activity](leaderboards/activity.md)
@@ -64,13 +65,14 @@
 
 ## Quests
 
-* [Untitled](quests/untitled.md)
+* [Overview](quests/untitled.md)
 * [Pins](quests/pins.md)
 * [Replace](quests/replace.md)
 * [Reports](quests/reports.md)
 
 ## Challenges
 
+* [Overview](challenges/overview.md)
 * [Pins](challenges/pins.md)
 * [Categories](challenges/categories.md)
 * [Sets](challenges/sets.md)
