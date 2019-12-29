@@ -1,12 +1,12 @@
 # XP Drops
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image%20%288%29.png)
 
 When an enemy is eliminated, there is a 1 in 50 chance for an XP bottle to drop. In Mann vs Machine gamemodes, it is increased to a 1 in 500 chance.
 
 Despawns 60 seconds after spawning.
 
-![In-Game Screenshot](../../.gitbook/assets/image%20%289%29.png)
+![In-Game Screenshot](../../.gitbook/assets/image%20%2810%29.png)
 
 ### Rarities
 

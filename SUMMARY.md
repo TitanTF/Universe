@@ -166,6 +166,7 @@
 
 * [Optional Content](technologies/optional-content.md)
 * [Content Distributor](technologies/content-distributor.md)
+* [Seamless Sessions](technologies/seamless-sessions.md)
 * [Web-Game Integration](technologies/web-game-integration.md)
 * [Titan Law](technologies/titan-law.md)
 
