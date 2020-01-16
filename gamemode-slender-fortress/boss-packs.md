@@ -436,7 +436,6 @@ If the next map contains a specific set pack in the specific pack list below, th
       <td style="text-align:left">
         <p>Athese</p>
         <p>Ethre</p>
-        <p>Russian Gandalf Revived</p>
         <p>Lewis</p>
         <p>Mutant Brute</p>
       </td>
