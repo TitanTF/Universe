@@ -136,7 +136,7 @@ If the next map contains a specific set pack in the specific pack list below, th
         <p>Simon
           <br />
         </p>
-        <p>Luigidoll
+        <p>Luigi Doll
           <br />
         </p>
         <p>MeeM
@@ -248,7 +248,7 @@ If the next map contains a specific set pack in the specific pack list below, th
           <br />
         </p>
         <p>Hans Volter</p>
-        <p>Fleshclown
+        <p>Flesh Clown
           <br />
         </p>
       </td>
@@ -326,7 +326,7 @@ If the next map contains a specific set pack in the specific pack list below, th
       <td style="text-align:left">
         <p>Book Simon</p>
         <p>Skeleton King</p>
-        <p>Slendyclaws</p>
+        <p>Slendy Claws</p>
         <p>Suitor</p>
         <p>Trypophobia</p>
       </td>
