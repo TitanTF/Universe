@@ -4,6 +4,14 @@ description: The official list of bosses for Slender Fortress
 
 # Boss Packs
 
+### How do boss packs work?
+
+At the end of each map, a boss pack vote is casted to all players. The winning pack will be used in the next map.
+
+If the next map contains a specific set pack in the specific pack list below, that pack will override the winning vote instead.
+
+### Specific Packs
+
 <table>
   <thead>
     <tr>
@@ -46,8 +54,11 @@ description: The official list of bosses for Slender Fortress
     </tr>
     <tr>
       <td style="text-align:left">FNAF Pack</td>
-      <td style="text-align:left">slender_fiveroundsatfreddys_b5
-        <br />slender_freddy</td>
+      <td style="text-align:left">
+        <p>slender_fiveroundsatfreddys
+          <br />slender_freddy</p>
+        <p>slender_newfnaf3</p>
+      </td>
       <td style="text-align:left">
         <p>Golden Freddy
           <br />
@@ -82,9 +93,9 @@ description: The official list of bosses for Slender Fortress
     <tr>
       <td style="text-align:left">Classic Pack</td>
       <td style="text-align:left">
-        <p>slender_frost_run_classic3</p>
-        <p>slender_noexit_classic3</p>
-        <p>slender_theeightpages_classic6</p>
+        <p>slender_frost_run_classic</p>
+        <p>slender_noexit_classic</p>
+        <p>slender_theeightpages_classic</p>
       </td>
       <td style="text-align:left">
         <p>Slender
@@ -265,4 +276,26 @@ description: The official list of bosses for Slender Fortress
       </td>
     </tr>
   </tbody>
-</table>
+</table>### Random Packs
+
+| Pack | Bosses |
+| :--- | :--- |
+| Pack 1 |  |
+| Pack 2 |  |
+| Pack 3 |  |
+| Pack 4 |  |
+| Pack 5 |  |
+| Pack 6 |  |
+| Pack 7 |  |
+| Pack 8 |  |
+| Pack 9 |  |
+| Pack 10 |  |
+| Pack 11 |  |
+| Pack 12 |  |
+| Pack 13 |  |
+| Pack 14 |  |
+| Pack 15 |  |
+| Pack 16 |  |
+| Pack 17 |  |
+| Pack 18 |  |
+
