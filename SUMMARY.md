@@ -175,6 +175,10 @@
 
 * [Boss Packs](freak-fortress/boss-packs.md)
 
+## Gamemode: Slender Fortress
+
+* [Boss Packs](gamemode-slender-fortress/boss-packs.md)
+
 ## Technologies
 
 * [Optional Content](technologies/content.md)
