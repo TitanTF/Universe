@@ -275,6 +275,11 @@ If the next map contains a specific set pack in the specific pack list below, th
         </p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">Spongebob Pack</td>
+      <td style="text-align:left">slender_krusty_krab</td>
+      <td style="text-align:left">Suicide Squidward</td>
+    </tr>
   </tbody>
 </table>### Random Packs
 
