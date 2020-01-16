@@ -278,24 +278,190 @@ If the next map contains a specific set pack in the specific pack list below, th
   </tbody>
 </table>### Random Packs
 
-| Pack | Bosses |
-| :--- | :--- |
-| Pack 1 |  |
-| Pack 2 |  |
-| Pack 3 |  |
-| Pack 4 |  |
-| Pack 5 |  |
-| Pack 6 |  |
-| Pack 7 |  |
-| Pack 8 |  |
-| Pack 9 |  |
-| Pack 10 |  |
-| Pack 11 |  |
-| Pack 12 |  |
-| Pack 13 |  |
-| Pack 14 |  |
-| Pack 15 |  |
-| Pack 16 |  |
-| Pack 17 |  |
-| Pack 18 |  |
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Pack</th>
+      <th style="text-align:left">Bosses</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Pack 1</td>
+      <td style="text-align:left">
+        <p>Patriarch</p>
+        <p>Flesh Pound</p>
+        <p>Amnesia Brute</p>
+        <p>Bunny Man</p>
+        <p>Chris Walker</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 2</td>
+      <td style="text-align:left">
+        <p>Dr Trager</p>
+        <p>TF2 Ghost</p>
+        <p>Grunt</p>
+        <p>Guardian</p>
+        <p>Hell Knight</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 3</td>
+      <td style="text-align:left">
+        <p>MeeM</p>
+        <p>Sawrunner</p>
+        <p>SCP-173</p>
+        <p>Containment Breach - MTF Team</p>
+        <p>Containment Breach - SCP-049</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 4</td>
+      <td style="text-align:left">
+        <p>Book Simon</p>
+        <p>Skeleton King</p>
+        <p>Slendyclaws</p>
+        <p>Suitor</p>
+        <p>Trypophobia</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 5</td>
+      <td style="text-align:left">
+        <p>Villager</p>
+        <p>Villar</p>
+        <p>Emily</p>
+        <p>Zombie Scientist</p>
+        <p>Zombie Guard</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 6</td>
+      <td style="text-align:left">
+        <p>SCP-049</p>
+        <p>Quadralex</p>
+        <p>Moarg</p>
+        <p>The Horror</p>
+        <p>Garg</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 7</td>
+      <td style="text-align:left">
+        <p>Death Claw</p>
+        <p>Shrek</p>
+        <p>Merasmus</p>
+        <p>Miku</p>
+        <p>Hentai Woody</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 8</td>
+      <td style="text-align:left">
+        <p>Witch</p>
+        <p>Freddy Krueger</p>
+        <p>Tank</p>
+        <p>Slowerno</p>
+        <p>Sawcrazy</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 9</td>
+      <td style="text-align:left">
+        <p>Sisters of the Damned</p>
+        <p>Luigi Doll</p>
+        <p>Luigi</p>
+        <p>Paranoia</p>
+        <p>Flandre</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 10</td>
+      <td style="text-align:left">
+        <p>Kuro Oni</p>
+        <p>Ao Oni</p>
+        <p>Flesh Clown</p>
+        <p>Hans Volter</p>
+        <p>SCP-096</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 11</td>
+      <td style="text-align:left">
+        <p>SCP-106</p>
+        <p>Angelo</p>
+        <p>Guilt</p>
+        <p>Marcus</p>
+        <p>Wheelchair Monster</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 12</td>
+      <td style="text-align:left">
+        <p>Black Dog</p>
+        <p>Crimson Mutant</p>
+        <p>Suicide Squidward</p>
+        <p>Salad Fingers</p>
+        <p>OFF Bad Batter</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 13</td>
+      <td style="text-align:left">
+        <p>Pyro MeeM</p>
+        <p>Sniper MeeM</p>
+        <p>Spy MeeM</p>
+        <p>Palpatine Revived</p>
+        <p>Russian Woody</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 14</td>
+      <td style="text-align:left">
+        <p>Walking Mask</p>
+        <p>Corrupted Jessie</p>
+        <p>Corrupted Woody</p>
+        <p>Untitled</p>
+        <p>W. D. Gaster</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 15</td>
+      <td style="text-align:left">
+        <p>Athese</p>
+        <p>Ethre</p>
+        <p>Russian Gandalf Revived</p>
+        <p>Lewis</p>
+        <p>Mutant Brute</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 16</td>
+      <td style="text-align:left">
+        <p>Anathema</p>
+        <p>King Eggman</p>
+        <p>Beast Bendy</p>
+        <p>Team Killer</p>
+        <p>Koishi Komeiji</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 17</td>
+      <td style="text-align:left">
+        <p>Satori Komeiji</p>
+        <p>Handsome Jack</p>
+        <p>Skulldozer</p>
+        <p>Bulldozer</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 18</td>
+      <td style="text-align:left">
+        <p>Weeping Angel</p>
+        <p>BEN</p>
+        <p>Bombinomicon</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
