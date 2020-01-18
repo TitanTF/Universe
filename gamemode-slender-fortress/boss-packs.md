@@ -299,6 +299,9 @@ If the next map contains a specific set pack in the specific pack list below, th
         <p>Amnesia Brute</p>
         <p>Bunny Man</p>
         <p>Chris Walker</p>
+        <p>Weeping Angel</p>
+        <p>BEN</p>
+        <p>Bombinomicon</p>
       </td>
     </tr>
     <tr>
@@ -457,14 +460,6 @@ If the next map contains a specific set pack in the specific pack list below, th
         <p>Handsome Jack</p>
         <p>Skulldozer</p>
         <p>Bulldozer</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Pack 18</td>
-      <td style="text-align:left">
-        <p>Weeping Angel</p>
-        <p>BEN</p>
-        <p>Bombinomicon</p>
       </td>
     </tr>
   </tbody>
