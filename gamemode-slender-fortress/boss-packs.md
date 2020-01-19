@@ -34,15 +34,12 @@ If the next map contains a specific set pack in the specific pack list below, th
       <td style="text-align:left">slender_weepers</td>
       <td style="text-align:left">Weeping Angels
         <br />SCP-173
-        <br />Freddy Fazbear
-        <br />Sisters of the Damned</td>
+        <br />Freddy Fazbear</td>
     </tr>
     <tr>
       <td style="text-align:left">Staircase Pack</td>
       <td style="text-align:left">slender_scp_087_b</td>
       <td style="text-align:left">
-        <p>Sisters
-          <br />of the Damned</p>
         <p>TF2 Ghost
           <br />
         </p>
@@ -113,8 +110,6 @@ If the next map contains a specific set pack in the specific pack list below, th
         <p>SCP-173
           <br />
         </p>
-        <p>Sisters
-          <br />of the Damned</p>
         <p>BEN
           <br />
         </p>
@@ -377,7 +372,6 @@ If the next map contains a specific set pack in the specific pack list below, th
     <tr>
       <td style="text-align:left">Pack 9</td>
       <td style="text-align:left">
-        <p>Sisters of the Damned</p>
         <p>Luigi Doll</p>
         <p>Luigi</p>
         <p>Paranoia</p>
