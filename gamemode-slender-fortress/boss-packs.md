@@ -456,5 +456,18 @@ If the next map contains a specific set pack in the specific pack list below, th
         <p>Bulldozer</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">Pack 18</td>
+      <td style="text-align:left">
+        <p>Sha of Doubt</p>
+        <p>Yuanti Pirate Boss</p>
+        <p>Death Egg Robot</p>
+        <p>Masked Man</p>
+        <p>Red Monster</p>
+        <p>Chesire Smile</p>
+        <p>Eye Killer</p>
+        <p>Cloth Wander</p>
+      </td>
+    </tr>
   </tbody>
 </table>
