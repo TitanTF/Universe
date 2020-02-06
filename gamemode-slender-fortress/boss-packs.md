@@ -24,10 +24,7 @@ If the next map contains a specific set pack in the specific pack list below, th
     <tr>
       <td style="text-align:left">Core Pack</td>
       <td style="text-align:left">All</td>
-      <td style="text-align:left">
-        <p>Slenderman</p>
-        <p>Rake</p>
-      </td>
+      <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left">Statue Pack</td>
@@ -85,6 +82,13 @@ If the next map contains a specific set pack in the specific pack list below, th
           <br />
         </p>
         <p>Marionette</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Frost Pack</td>
+      <td style="text-align:left">slender_frost_run</td>
+      <td style="text-align:left">Rake
+        <br />
       </td>
     </tr>
     <tr>
