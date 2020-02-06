@@ -181,6 +181,11 @@ If the next map contains a specific set pack in the specific pack list below, th
           <br />
         </p>
         <p>SCP-096</p>
+        <p>Masked Man</p>
+        <p>Red Monster</p>
+        <p>Chesire Smile</p>
+        <p>Eye Killer</p>
+        <p>Cloth Wander</p>
       </td>
     </tr>
     <tr>
