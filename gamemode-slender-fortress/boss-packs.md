@@ -6,9 +6,11 @@ description: The official list of bosses for Slender Fortress
 
 ### How do boss packs work?
 
-At the end of each map, a boss pack vote is casted to all players. The winning pack will be used in the next map.
+At the end of each map, a boss pack vote is cast to all players. The winning pack will be used in the next map.
 
 If the next map contains a specific set pack in the specific pack list below, that pack will override the winning vote instead.
+
+If no votes were submitted and the next map does not contain a specific set pack, the default pack: Pack 1 will be loaded.
 
 ### Specific Packs
 
