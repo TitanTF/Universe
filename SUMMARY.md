@@ -120,8 +120,8 @@
 ## Gamemodes
 
 * [Orange](gamemodes/orange.md)
-* [Freak Fortress](gamemodes/boss-packs.md)
-* [Slender Fortress](gamemodes/boss-packs-1.md)
+* [Freak Fortress](gamemodes/freak-fortress.md)
+* [Slender Fortress](gamemodes/slender-fortress.md)
 
 ## Website
 
