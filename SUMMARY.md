@@ -117,6 +117,12 @@
 * [Easter Eggs](servers/easter-eggs/README.md)
   * ['42' Messages](servers/easter-eggs/42-messages.md)
 
+## Gamemodes
+
+* [Orange](gamemodes/orange.md)
+* [Freak Fortress](gamemodes/boss-packs.md)
+* [Slender Fortress](gamemodes/boss-packs-1.md)
+
 ## Website
 
 * [Emotes](website/emotes.md)
@@ -170,12 +176,6 @@
   * [Titan 2.1](history/evolution/titan-2.1.md)
 * [Storyline](history/storyline/README.md)
   * [Break the Safe](history/storyline/break-the-safe.md)
-
-## Gamemodes
-
-* [Orange](gamemodes/orange.md)
-* [Freak Fortress](gamemodes/boss-packs.md)
-* [Slender Fortress](gamemodes/boss-packs-1.md)
 
 ## Technologies
 
