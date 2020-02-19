@@ -125,6 +125,11 @@ Note that **player** stated in the table is referring to the person completing t
           <li>Otherwise, the challenge will match names with the exact naming.
             <br />
           </li>
+          <li>
+            <p><code>#</code> at the end of a name if you want the challenge to match
+              case-sensitively.</p>
+            <p></p>
+          </li>
           <li>If you include multiple name searches, it means <b>OR</b>.</li>
         </ul>
       </td>
@@ -418,6 +423,16 @@ Only one parameter is allowed from this category for each challenge.
             <br />Parameters: <code>redalive;1,timer;250;90</code>
             <br />
           </li>
+          <li>
+            <p><b>Deal 500 Damage Every 10 Seconds [0/3]</b>
+            </p>
+            <p>Module:<code>damage</code>
+            </p>
+            <p>Points: <code>3</code>
+            </p>
+            <p>Parameters: <code>timer;500;10</code>
+            </p>
+          </li>
         </ul>
       </td>
     </tr>
@@ -438,6 +453,16 @@ Only one parameter is allowed from this category for each challenge.
             />Points: <code>2</code>
             <br />Parameters: <code>stimer;250;10</code>
             <br />
+          </li>
+          <li>
+            <p><b>Get 5 Eliminations in the first 10 Seconds of a Round [0/3]</b>
+            </p>
+            <p>Module: <code>kill</code>
+            </p>
+            <p>Points: <code>3</code>
+            </p>
+            <p>Parameters: <code>stimer;5;10</code>
+            </p>
           </li>
         </ul>
       </td>
@@ -476,7 +501,26 @@ When you indicate more than 1 condition, it means **AND**.
           <li>To indicate as the enemy, add <code>!ENEMY</code> behind the parameter.</li>
         </ul>
         <p>Examples</p>
-        <ul></ul>
+        <ul>
+          <li>
+            <p><b>Player is NOT Ubercharged</b>
+              <br />Parameters: <code>cond;5!NOT</code>
+            </p>
+            <p>&lt;b&gt;&lt;/b&gt;</p>
+          </li>
+          <li>
+            <p><b>Player is Ubercharged But NOT Stunned</b>
+              <br />Parameters: <code>cond;5,cond;15!NOT</code>
+            </p>
+            <p>&lt;code&gt;&lt;/code&gt;</p>
+          </li>
+          <li>
+            <p><b>Enemy is NOT Ubercharged and NOT Taunting</b>
+            </p>
+            <p>Parameters: <code>cond;5!ENEMY,cond;7!ENEMY</code>
+            </p>
+          </li>
+        </ul>
       </td>
     </tr>
   </tbody>
@@ -575,6 +619,12 @@ These parameters are catered to the respective modules only.
         </ul>
         <p>Examples</p>
         <ul>
+          <li>
+            <p><b>Backstab</b>
+              <br />Parameters: <code>killtype;2</code>
+            </p>
+            <p>&lt;b&gt;&lt;/b&gt;</p>
+          </li>
           <li><b>Headshot But Not Suicide (somehow)</b>
             <br />Parameters: <code>killtype;HEADSHOT,killtype;6!NOT</code>
           </li>

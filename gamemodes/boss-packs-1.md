@@ -1,8 +1,8 @@
 ---
-description: The official list of bosses for Slender Fortress
+description: You can't play this alone.
 ---
 
-# Boss Packs
+# Slender Fortress
 
 ### How do boss packs work?
 

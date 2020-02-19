@@ -1,8 +1,8 @@
 ---
-description: The official list of bosses for Freak Fortress
+description: The most fun gamemode ever?
 ---
 
-# Boss Packs
+# Freak Fortress
 
 ## [List of Boss Packs](https://github.com/TitanTF/Internal-Data/blob/master/ff2_characters.cfg​)
 

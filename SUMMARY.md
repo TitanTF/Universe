@@ -171,13 +171,11 @@
 * [Storyline](history/storyline/README.md)
   * [Break the Safe](history/storyline/break-the-safe.md)
 
-## Gamemode: Freak Fortress <a id="freak-fortress"></a>
+## Gamemodes
 
-* [Boss Packs](freak-fortress/boss-packs.md)
-
-## Gamemode: Slender Fortress
-
-* [Boss Packs](gamemode-slender-fortress/boss-packs.md)
+* [Orange](gamemodes/orange.md)
+* [Freak Fortress](gamemodes/boss-packs.md)
+* [Slender Fortress](gamemodes/boss-packs-1.md)
 
 ## Technologies
 
