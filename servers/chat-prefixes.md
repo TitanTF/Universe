@@ -21,5 +21,5 @@ This is the list of chat prefixes available:
 If you can't choose one, you can select the "Random" option to randomize to a different prefix for every message. If you do not want to use this feature, you can turn it off by setting it to "None".
 {% endhint %}
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 

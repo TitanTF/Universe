@@ -8,5 +8,5 @@ description: Send a little something for someone special.
 
 Used to send someone credits. The amount used to buy a gift card is equivalent to the value of the gift card.
 
-![Item Image](../../../.gitbook/assets/image%20%282%29.png)
+![Item Image](../../../.gitbook/assets/image%20%285%29.png)
 

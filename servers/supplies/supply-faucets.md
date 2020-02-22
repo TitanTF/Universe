@@ -1,12 +1,12 @@
 # Supply Faucets
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 Supply faucets spawn randomly around the map every 20 - 30 minutes. It requires 5 players on the server to spawn and has a 1 in 3 chance of spawning.
 
 The supply faucet despawns 5 minutes after spawning. Loot them by holding E while looking at it and standing beside it. When looted, everyone on the server receives XP based on the rarity of the faucet.
 
-![In-Game Screenshot](../../.gitbook/assets/image%20%285%29.png)
+![In-Game Screenshot](../../.gitbook/assets/image%20%2810%29.png)
 
 ### Rarities
 
