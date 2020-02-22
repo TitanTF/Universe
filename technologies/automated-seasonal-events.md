@@ -13,7 +13,7 @@ Celebrate the birthday month of our Founder.
 
 ### Supply Drop
 
-![A giant cake](../.gitbook/assets/image%20%2818%29.png)
+![A giant cake](../.gitbook/assets/image%20%2825%29.png)
 
 ### Supply Drop Fragment
 
@@ -25,7 +25,7 @@ Celebrate the birthday month of our Founder.
 
 ### Gems
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 ### Bomb
 
@@ -38,11 +38,11 @@ The scariest one of them all!
 
 ### Supply Drop
 
-![A huge pumpkin](../.gitbook/assets/image%20%2814%29.png)
+![A huge pumpkin](../.gitbook/assets/image%20%2821%29.png)
 
 ### Supply Drop Fragment
 
-![Gravestones](../.gitbook/assets/image%20%2824%29.png)
+![Gravestones](../.gitbook/assets/image%20%2831%29.png)
 
 ### Supply Chest
 
@@ -58,6 +58,20 @@ The scariest one of them all!
 
 All Team Fortress 2 Halloween weapon spells will be activated on every weapon automatically.
 
+![Exorcism Spell \(RED\)](../.gitbook/assets/image%20%282%29.png)
+
+![Exorcism Spell \(BLU\)](../.gitbook/assets/image%20%2813%29.png)
+
+![Squash Rocket Spell](../.gitbook/assets/image%20%2818%29.png)
+
+![Spectral Flame Spell](../.gitbook/assets/image%20%2812%29.png)
+
+![Sentry Quad-Pumpkins Spell](../.gitbook/assets/image%20%2810%29.png)
+
+![Gourd Grenades \(Grenades\)](../.gitbook/assets/image%20%289%29.png)
+
+![Gourd Grenades \(Stickybombs\)](../.gitbook/assets/image%20%287%29.png)
+
 ## Christmas
 
 It's the most wonderful time of the year!  
@@ -65,29 +79,29 @@ It's the most wonderful time of the year!
 
 ### Supply Drop
 
-![A huge tree covered with snow that contains a lot of presents!](../.gitbook/assets/image%20%2817%29.png)
+![A huge tree covered with snow that contains a lot of presents!](../.gitbook/assets/image%20%2824%29.png)
 
 ### Supply Drop Fragment
 
 ### Supply Chest
 
-![A giant present.](../.gitbook/assets/image%20%288%29.png)
+![A giant present.](../.gitbook/assets/image%20%2814%29.png)
 
 ### Cash
 
-![Presents!](../.gitbook/assets/image%20%2816%29.png)
+![Presents!](../.gitbook/assets/image%20%2823%29.png)
 
 ### Gems
 
 ### Bomb
 
-![The bomb is replaced with a giant present.](../.gitbook/assets/image%20%284%29.png)
+![The bomb is replaced with a giant present.](../.gitbook/assets/image%20%285%29.png)
 
 ### Robots
 
-![All robots will be wearing Santa hats.](../.gitbook/assets/image%20%2820%29.png)
+![All robots will be wearing Santa hats.](../.gitbook/assets/image%20%2827%29.png)
 
-![Including giant robots!](../.gitbook/assets/image%20%282%29.png)
+![Including giant robots!](../.gitbook/assets/image%20%283%29.png)
 
 ### Snowy Weather
 

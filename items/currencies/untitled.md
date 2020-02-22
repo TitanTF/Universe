@@ -19,5 +19,5 @@ Credits can be used to purchase items from the [shop](../shop/). Credits drop ev
 Credits are the default currency drop when playing. To replace your credit drops with [gem drops](gems/), modify your [settings](https://titan.tf/settings).
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
