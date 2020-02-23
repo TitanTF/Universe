@@ -119,9 +119,28 @@
 
 ## Gamemodes
 
-* [Orange](gamemodes/orange.md)
+* [Deathrun](gamemodes/deathrun.md)
 * [Freak Fortress](gamemodes/freak-fortress.md)
+* [VS Saxton Hale](gamemodes/vsh.md)
 * [Slender Fortress](gamemodes/slender-fortress.md)
+* [Machine Attacks](gamemodes/machine-attacks.md)
+* [Mann vs Machine](gamemodes/mann-vs-machine.md)
+* [x10](gamemodes/x10.md)
+* [x100](gamemodes/x100.md)
+* [x1000](gamemodes/x1000.md)
+* [Orange](gamemodes/orange.md)
+* [Hightower](gamemodes/hightower.md)
+* [Dodgeball](gamemodes/dodgeball.md)
+* [TF2 Ware](gamemodes/tf2-ware.md)
+* [Trade](gamemodes/trade.md)
+* [Uber Upgrades](gamemodes/uber-upgrades.md)
+* [Inactive](gamemodes/inactive/README.md)
+  * [2Fort](gamemodes/inactive/2fort.md)
+  * [Turbine](gamemodes/inactive/turbine.md)
+  * [Prop Hunt](gamemodes/inactive/prop-hunt.md)
+  * [Smash Bros](gamemodes/inactive/smash-bros.md)
+  * [Zombie Mod](gamemodes/inactive/zombie-mod.md)
+  * [Zombie Survival](gamemodes/inactive/zombie-survival.md)
 
 ## Website
 
