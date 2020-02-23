@@ -54,6 +54,7 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>slender_fiveroundsatfreddys
           <br />slender_freddy</p>
         <p>slender_newfnaf3</p>
+        <p>slender_return_to_freddys_b3</p>
       </td>
       <td style="text-align:left">
         <p>Golden Freddy
