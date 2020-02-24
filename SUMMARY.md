@@ -116,6 +116,7 @@
   * [Gem Drops](servers/loot/gem-drops.md)
 * [Easter Eggs](servers/easter-eggs/README.md)
   * ['42' Messages](servers/easter-eggs/42-messages.md)
+  * [Loading Messages](servers/easter-eggs/loading-messages.md)
 
 ## Gamemodes
 
