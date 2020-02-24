@@ -1,3 +1,7 @@
+---
+description: A list of secret hidden features you never knew existed!
+---
+
 # Easter Eggs
 
 ### Servers
