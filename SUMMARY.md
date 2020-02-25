@@ -182,7 +182,7 @@
 
 ## Fundraisers
 
-* [Rise of Region \(ROG\)](fundraisers/rise-of-region-rog.md)
+* [Rise of Region \(RoR\)](fundraisers/rise-of-region-rog.md)
 
 ## Others
 

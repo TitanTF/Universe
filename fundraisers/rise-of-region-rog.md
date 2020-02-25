@@ -1,4 +1,4 @@
-# Rise of Region \(ROG\)
+# Rise of Region \(RoR\)
 
 We may setup a fundraiser campaign to raise funds to expand and host more servers in some regions of the world.
 
