@@ -173,7 +173,7 @@
 
 ## Support
 
-* [Download Server](https://cdn.titan.tf)
+* [Download Server](steam://connect/download.titan.tf:11111)
 
 ## Applications
 
