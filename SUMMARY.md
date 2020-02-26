@@ -120,7 +120,6 @@
   * [Gem Drops](servers/loot/gem-drops.md)
 * [Easter Eggs](servers/easter-eggs/README.md)
   * ['42' Messages](servers/easter-eggs/42-messages.md)
-  * [Loading Messages](servers/easter-eggs/loading-messages.md)
 
 ## Gamemodes
 
@@ -151,6 +150,8 @@
 
 ## Website
 
+* [Easter Eggs](website/easter-eggs/README.md)
+  * [Loading Messages](website/easter-eggs/loading-messages.md)
 * [Emotes](website/emotes.md)
 * [Activity Posts](website/activity-posts.md)
 * [Forums](website/forums.md)
@@ -161,7 +162,6 @@
   * [Sponsorships](https://titan.tf/sponsorships)
 * [Promotions](website/promotions/README.md)
   * [Promotions](https://titan.tf/promotions)
-* [Easter Eggs](website/easter-eggs.md)
 
 ## Maps Center
 
