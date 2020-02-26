@@ -100,7 +100,7 @@
 
 ## Chat
 
-* [Untitled](chat/untitled.md)
+* [Chat Colors](chat/chat-colors.md)
 
 ## Events
 
