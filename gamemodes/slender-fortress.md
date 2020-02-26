@@ -26,7 +26,7 @@ If no votes were submitted and the next map does not contain a specific set pack
     <tr>
       <td style="text-align:left">Core Pack</td>
       <td style="text-align:left">All</td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Slenderman</td>
     </tr>
     <tr>
       <td style="text-align:left">Statue Pack</td>
@@ -103,8 +103,7 @@ If no votes were submitted and the next map does not contain a specific set pack
       </td>
       <td style="text-align:left">
         <p>Slender
-          <br />
-        </p>
+          <br />man</p>
         <p>Slowerno
           <br />
         </p>
@@ -268,7 +267,8 @@ If no votes were submitted and the next map does not contain a specific set pack
     <tr>
       <td style="text-align:left">Parish Pack</td>
       <td style="text-align:left">slender_parish</td>
-      <td style="text-align:left">Tank</td>
+      <td style="text-align:left">Witch
+        <br />Tank</td>
     </tr>
     <tr>
       <td style="text-align:left">Doom 3 Pack</td>
@@ -280,6 +280,17 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>Hell Knight
           <br />
         </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Hellfire Pack</td>
+      <td style="text-align:left">slender_hellfire</td>
+      <td style="text-align:left">
+        <p>Bombinomicon</p>
+        <p>TF2 Ghost</p>
+        <p>Merasmus</p>
+        <p>Guardian</p>
+        <p>Hell Knight</p>
       </td>
     </tr>
     <tr>
@@ -308,17 +319,16 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>Chris Walker</p>
         <p>Weeping Angel</p>
         <p>BEN</p>
-        <p>Bombinomicon</p>
+        <p>Dr. Trager</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Pack 2</td>
       <td style="text-align:left">
-        <p>Dr Trager</p>
-        <p>TF2 Ghost</p>
-        <p>Grunt</p>
-        <p>Guardian</p>
-        <p>Hell Knight</p>
+        <p>Red Monster</p>
+        <p>Chesire Smile</p>
+        <p>Eye Killer</p>
+        <p>Cloth Wander</p>
       </td>
     </tr>
     <tr>
@@ -366,7 +376,6 @@ If no votes were submitted and the next map does not contain a specific set pack
       <td style="text-align:left">
         <p>Death Claw</p>
         <p>Shrek</p>
-        <p>Merasmus</p>
         <p>Miku</p>
         <p>Hentai Woody</p>
       </td>
@@ -475,10 +484,6 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>Yuanti Pirate Boss</p>
         <p>Death Egg Robot</p>
         <p>Masked Man</p>
-        <p>Red Monster</p>
-        <p>Chesire Smile</p>
-        <p>Eye Killer</p>
-        <p>Cloth Wander</p>
       </td>
     </tr>
   </tbody>
