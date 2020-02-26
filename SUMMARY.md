@@ -150,8 +150,6 @@
 
 ## Website
 
-* [Easter Eggs](website/easter-eggs/README.md)
-  * [Loading Messages](website/easter-eggs/loading-messages.md)
 * [Emotes](website/emotes.md)
 * [Activity Posts](website/activity-posts.md)
 * [Forums](website/forums.md)
@@ -162,6 +160,8 @@
   * [Sponsorships](https://titan.tf/sponsorships)
 * [Promotions](website/promotions/README.md)
   * [Promotions](https://titan.tf/promotions)
+* [Easter Eggs](website/easter-eggs/README.md)
+  * [Loading Messages](website/easter-eggs/loading-messages.md)
 
 ## Maps Center
 
