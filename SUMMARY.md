@@ -98,6 +98,10 @@
 * [Titan Improvement Project \(TIP\)](fix/information/README.md)
   * [Fix Titan.TF](https://fix.titan.tf)
 
+## Chat
+
+* [Untitled](chat/untitled.md)
+
 ## Events
 
 * [Daily Raids](events/daily-raids.md)
