@@ -61,5 +61,24 @@ description: A list of secret hidden features you never knew existed on our webs
       <td style="text-align:left">The page never stops loading. A random loading message is also shown on
         each page load.</td>
     </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://titan.tf/profiles/0">titan.tf/profiles/0</a>
+      </td>
+      <td style="text-align:left">Profile 0, a mysterious entity with no identity. The only profile that
+        cannot be rendered. Will we ever know who he is?</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://titan.tf/profiles/2">titan.tf/profiles/2</a>
+      </td>
+      <td style="text-align:left">Kira, the holder of the death note. The only post he ever made was &quot;I
+        have arrived. We shall create a new world together.&quot;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://titan.tf/profiles/3">titan.tf/profiles/3</a>
+      </td>
+      <td style="text-align:left">The most badass character in the Attack on Titan anime. Claims to be the
+        person behind profile 0, but is he? The only post made was &quot;The real
+        man has arrived. Time to slay some Titans.&quot;</td>
+    </tr>
   </tbody>
 </table>
