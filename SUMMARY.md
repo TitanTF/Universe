@@ -100,7 +100,7 @@
 
 ## Chat
 
-* [Chat Colors](chat/untitled.md)
+* [Chat Colors](chat/chat-colors.md)
 
 ## Events
 
@@ -161,7 +161,7 @@
 * [Promotions](website/promotions/README.md)
   * [Promotions](https://titan.tf/promotions)
 * [Easter Eggs](website/easter-eggs/README.md)
-  * [Loading Messages](servers/easter-eggs/loading-messages.md)
+  * [Loading Messages](website/easter-eggs/loading-messages.md)
 
 ## Maps Center
 
