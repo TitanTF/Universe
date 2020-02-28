@@ -4,7 +4,7 @@ Players have to beat Saxton Hale who is activating traps on the maps, by avoidin
 
 Saxton Hale is a player selected once at the start of every round by the number of queue points they have. Queue points are earned at the end of each round. He has to kill all runners by activating traps with a press of a button, and preventing them from getting to the end.
 
-Saxton Hale has the ability to super jump and rage. But his rage does not do anything to runners.
+Saxton Hale has the ability to super jump and rage. But his rage does not do anything to runners. He moves faster than in the original mode, at the speed of a Scout \(400 units/second\).
 
 ### Traps
 
