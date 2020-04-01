@@ -16,10 +16,10 @@ A special battle pass that does not feature any items, and only Acrylic weapons 
 
 ![Item Image \(by Leeroy\)](../.gitbook/assets/image%20%281%29.png)
 
-### ![](../.gitbook/assets/image%20%2832%29.png) Killing Camp Battle Pass
+### ![](../.gitbook/assets/image%20%2835%29.png) Killing Camp Battle Pass
 
 The first ever battle pass introduced to Titan.  
 **255** items were available in this pass.
 
-![Item Image](../.gitbook/assets/image%20%2832%29.png)
+![Item Image](../.gitbook/assets/image%20%2835%29.png)
 

@@ -14,7 +14,7 @@ When a new content update is released, the servers will automatically disable he
 
 When you use a custom item, the server will notify you that your content pack is outdated.
 
-![An alert is also displayed on every page of the website notifying the user of their outdated installation](../.gitbook/assets/image%20%288%29.png)
+![An alert is also displayed on every page of the website notifying the user of their outdated installation](../.gitbook/assets/image%20%289%29.png)
 
 
 
