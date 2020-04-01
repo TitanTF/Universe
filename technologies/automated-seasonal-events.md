@@ -23,6 +23,10 @@ This is a special drop that is unique to this event. A bomb will randomly appear
 
 ![Bomb cart](../.gitbook/assets/20200401195716_1.jpg)
 
+### Googly Eyes
+
+![All players including robots have gOoGly eyes o\_O](../.gitbook/assets/20200401200136_1.jpg)
+
 ### Projectiles
 
 This feature only lasts for 1 day till 2 April. This feature is not available on Dodgeball servers.
@@ -36,8 +40,6 @@ This feature only lasts for 1 day till 2 April. This feature is not available on
 ![Cow](../.gitbook/assets/image%20%2822%29.png)
 
 ![Heavy](../.gitbook/assets/image%20%282%29.png)
-
-
 
 ## Founder's Birthday
 
