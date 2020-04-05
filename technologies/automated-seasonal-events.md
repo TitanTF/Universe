@@ -140,7 +140,7 @@ It's the most wonderful time of the year!
 
 ### Snowy Weather
 
-Only activates from 15 December to 1 January.
+Only activates from 10 December to 1 January.
 
 ![&#x2744; Fog, snow and snow storms!](../.gitbook/assets/20200222133629_1.jpg)
 
