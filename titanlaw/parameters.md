@@ -4,27 +4,21 @@ description: On your way to creating your own unique challenges.
 
 # Parameters
 
-## For Moderators: Before you create your challenges, you must create a challenge set to group your challenges together!
-
-Note that all event challenge sets will require approval from myst. Before approval, challenge sets are not visible to the public.
-
-## Main Parameters
-
-There can be no parameters to a module to make the challenge generic. Parameters are used to customize the conditions in which the challenge will progress.
+Parameters are used to customize the conditions where the challenge will progress.
 
 * All parameters are optional
-* Conditional parameters `;` are required where they are stated
-* Separate with commas, no spaces allowed for each parameter
 * Leave empty if there is no parameters
+* Conditional parameters `;` are required where stated
+* Separate with commas and no spaces allowed for each parameter
 * Does not have to be in order, but `!NOT` weapons and weapon classes have to be after "IS USING" weapons and weapon classes
 
 ### Parameters Table
 
-Note that **player** stated in the table is referring to the person completing the challenge.
+Note that **player** is referring to the person completing the challenge.
 
 {% tabs %}
 {% tab title="Class" %}
-### Player/Enemy Class
+### Player or Enemy Class
 
 * When you indicate more than 1 class, it means **OR**.
   * Eg. `scout,soldier,demoman!ENEMY,heavy!ENEMY` means the player is either Scout or Soldier, and that the enemy is either Demoman or Heavy. 
@@ -595,7 +589,7 @@ When you indicate more than 1 condition, it means **AND**.
 
 These parameters are catered to the respective modules only.
 
-#### `kill (Optional)`
+#### `damage / kill (Optional)`
 
 <table>
   <thead>
@@ -606,15 +600,15 @@ These parameters are catered to the respective modules only.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><code>killtype;typeno</code>
+      <td style="text-align:left"><code>damagetype;typeno<br />killtype;typeno</code>
       </td>
       <td style="text-align:left">
-        <p>The type of kill on the enemy</p>
+        <p>The type of damage / kill on the enemy</p>
         <p></p>
-        <p><code>;typeno</code><em> </em>is<em> </em>the matching kill type number</p>
+        <p><code>;typeno</code><em> </em>is<em> </em>the matching type number</p>
         <ul>
-          <li>Refer to the table below for the list of kill numbers</li>
-          <li>To indicate it wasn&apos;t this type of kill, add <code>!NOT</code> behind
+          <li>Refer to the table below for the list of type numbers</li>
+          <li>To indicate it wasn&apos;t this type of damage or kill, add <code>!NOT</code> behind
             the parameter.</li>
         </ul>
         <p>Examples</p>
@@ -626,13 +620,13 @@ These parameters are catered to the respective modules only.
             <p>&lt;b&gt;&lt;/b&gt;</p>
           </li>
           <li><b>Headshot But Not Suicide (somehow)</b>
-            <br />Parameters: <code>killtype;HEADSHOT,killtype;6!NOT</code>
+            <br />Parameters: <code>killtype;1,killtype;6!NOT</code>
           </li>
         </ul>
       </td>
     </tr>
   </tbody>
-</table>| Kill Type | Type Number |
+</table>| Type | Type Number |
 | :--- | :--- |
 |  TF\_CUSTOM\_HEADSHOT | 1 |
 |  TF\_CUSTOM\_BACKSTAB | 2 |
@@ -749,11 +743,11 @@ These parameters are catered to the respective modules only.
 {% endtab %}
 {% endtabs %}
 
-## Other Parameters
+### Other Parameters
 
 To make things neater, maps and gamemodes function the same way but are separated from the main parameters.
 
-### Gamemodes
+#### Gamemodes
 
 * Separate with commas, spaces are allowed for each gamemode name. 
 * `*` __in front of a name if you want the challenge to match gamemodes **CONTAINING** that name. Otherwise, the challenge will match gamemodes with the exact naming. 

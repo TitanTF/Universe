@@ -9,7 +9,7 @@
 | `complete_mission` | MvM - Complete Missions | - |
 | `complete_quest` | Complete Quests | - |
 | `credit` | Earn Credits | - |
-| `damage` | Deal Damage | - |
+| `damage` | Deal Damage | Optional |
 | `damage_tank` | MvM - Damage Tanks | - |
 | `daze_end` | Player Exits Dazed Condition | - |
 | `deflect` | Deflect Projectiles | - |
