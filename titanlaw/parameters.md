@@ -582,6 +582,7 @@ When you indicate more than 1 condition, it means **AND**.
 | Description | Parameter List |
 | :--- | :--- |
 | Using any of the explosive weapons | `weaponclass;tf_weapon_rocketlauncher,weaponclass;tf_weapon_rocketlauncher_directhit,weaponclass;tf_weapon_particle_cannon,weaponclass;tf_weapon_rocketlauncher_airstrike,weaponclass;tf_weapon_grenadelauncher,weaponclass;tf_weapon_cannon,weaponclass;tf_weapon_pipebomblauncher` |
+| Using any melee weapons | `weaponclass;saxxy,weaponclass;tf_weapon_bat,weaponclass;tf_weapon_bat_wood,weaponclass;tf_weapon_bat_fish,weaponclass;tf_weapon_bat_giftwrap,weaponclass;tf_weapon_shovel,weaponclass;tf_weapon_fireaxe,weaponclass;tf_weapon_breakable_sign,weaponclass;tf_weapon_slap,weapon;307,weaponclass;tf_weapon_bottle,weaponclass;tf_weapon_sword,weaponclass;tf_weapon_katana,weaponclass;tf_weapon_fists,weaponclass;tf_weapon_wrench,weaponclass;tf_weapon_robot_arm,weaponclass;tf_weapon_bonesaw,weaponclass;tf_weapon_club,weaponclass;tf_weapon_knife` |
 {% endtab %}
 
 {% tab title="Special" %}
