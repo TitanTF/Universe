@@ -271,7 +271,7 @@ Note that **player** is referring to the person completing the challenge.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>team;amount;e/m/l</code>
+      <td style="text-align:left"><code>teamcount;amount;e/m/l</code>
       </td>
       <td style="text-align:left">
         <p>The total number of players in the player&apos;s team</p>
@@ -287,7 +287,7 @@ Note that **player** is referring to the person completing the challenge.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><code>enemyteam;amount;e/m/l</code>
+      <td style="text-align:left"><code>enemyteamcount;amount;e/m/l</code>
       </td>
       <td style="text-align:left">
         <p>The total number of players in the enemy&apos;s team</p>
