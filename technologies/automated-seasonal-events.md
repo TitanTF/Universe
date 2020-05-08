@@ -109,7 +109,7 @@ All Team Fortress 2 Halloween weapon spells will be activated on every weapon au
 
 ### Projectiles
 
-This feature only lasts for 2 days till 3 October. This feature is not available on Dodgeball servers.
+This feature only lasts for 3 days till 3 October. This feature is not available on Dodgeball servers.
 
 **Rockets appear as pumpkins.**
 
