@@ -29,7 +29,7 @@ This is a special drop that is unique to this event. A bomb will randomly appear
 
 ### Projectiles
 
-This feature only lasts for 1 day till 2 April. This feature is not available on Dodgeball servers.
+This feature only lasts for 1 day on 1 April. This feature is not available on Dodgeball servers.
 
 #### Stickybombs appear as bombs.
 
