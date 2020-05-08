@@ -205,7 +205,7 @@
 
 ## Technologies
 
-* [Automated Seasonal Events](technologies/automated-seasonal-events.md)
+* [Automated Season Events](technologies/automated-seasonal-events.md)
 * [Optional Content](technologies/content.md)
 * [Content Distributor](technologies/distributor.md)
 * [Seamless Sessions](technologies/sessions.md)

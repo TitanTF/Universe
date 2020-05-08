@@ -1,4 +1,4 @@
-# Automated Seasonal Events
+# Automated Season Events
 
 There are many wonderful seasons over every year, for example spooky Halloween and joyful Christmas.
 
@@ -106,6 +106,14 @@ All Team Fortress 2 Halloween weapon spells will be activated on every weapon au
 ![Gourd Grenades \(Grenades\)](../.gitbook/assets/image%20%2810%29.png)
 
 ![Gourd Grenades \(Stickybombs\)](../.gitbook/assets/image%20%288%29.png)
+
+### Projectiles
+
+This feature only lasts for 2 days till 3 October. This feature is not available on Dodgeball servers.
+
+**Rockets appear as pumpkins.**
+
+![Pumpkins](../.gitbook/assets/20200508220646_1.jpg)
 
 ## Christmas
 
