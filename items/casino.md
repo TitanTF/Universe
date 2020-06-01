@@ -164,7 +164,9 @@ The participant has to deposit items of value within the range of 3% lower and 3
       </td>
     </tr>
   </tbody>
-</table>## Provably Fair
+</table>
+
+## Provably Fair
 
 The provably fair system **only supports web-based casino games**. The goal of this system is to ensure the integrity of the result.
 

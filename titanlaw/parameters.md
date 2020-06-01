@@ -144,7 +144,9 @@ Note that **player** is referring to the person completing the challenge.
       </td>
     </tr>
   </tbody>
-</table>### Templates
+</table>
+
+### Templates
 
 | Description | Parameter List |
 | :--- | :--- |
@@ -486,7 +488,7 @@ When you indicate more than 1 condition, it means **AND**.
           <br />
           <br /><code>;tfcond</code><em> </em>is<em> </em>the matching condition</p>
         <ul>
-          <li><a href="https://wiki.teamfortress.com/wiki/Cheats#addcond">List of Conditions</a>
+          <li><a href="https://sm.alliedmods.net/new-api/tf2/TFCond">List of Conditions</a>
             <br
             />Does not have to include TFCond_, only the text after that<b> (case sensitive)<br /></b>
           </li>
@@ -577,7 +579,9 @@ When you indicate more than 1 condition, it means **AND**.
       </td>
     </tr>
   </tbody>
-</table>### Templates
+</table>
+
+### Templates
 
 | Description | Parameter List |
 | :--- | :--- |
@@ -627,7 +631,9 @@ These parameters are catered to the respective modules only.
       </td>
     </tr>
   </tbody>
-</table>| Type | Type Number |
+</table>
+
+| Type | Type Number |
 | :--- | :--- |
 |  TF\_CUSTOM\_HEADSHOT | 1 |
 |  TF\_CUSTOM\_BACKSTAB | 2 |

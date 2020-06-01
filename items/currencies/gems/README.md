@@ -123,3 +123,5 @@ All XP and Gems earned is quadrupled by 4X when playing from 12 AM to 9 AM on an
   </tbody>
 </table>
 
+
+

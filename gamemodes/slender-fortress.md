@@ -299,7 +299,9 @@ If no votes were submitted and the next map does not contain a specific set pack
       <td style="text-align:left">Suicide Squidward</td>
     </tr>
   </tbody>
-</table>### Random Packs
+</table>
+
+### Random Packs
 
 <table>
   <thead>
@@ -488,3 +490,4 @@ If no votes were submitted and the next map does not contain a specific set pack
     </tr>
   </tbody>
 </table>
+

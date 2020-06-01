@@ -57,7 +57,9 @@ More events are being added over time.
       <td style="text-align:left">20</td>
     </tr>
   </tbody>
-</table>### Normal Gamemodes
+</table>
+
+### Normal Gamemodes
 
 | Event | XP |
 | :--- | :--- |
@@ -129,3 +131,4 @@ More events are being added over time.
     </tr>
   </tbody>
 </table>
+
