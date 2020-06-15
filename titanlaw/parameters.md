@@ -21,8 +21,8 @@ Note that **player** is referring to the person completing the challenge.
 ### Player or Enemy Class
 
 * When you indicate more than 1 class, it means **OR**.
-  * Eg. `scout,soldier,demoman!ENEMY,heavy!ENEMY` means the player is either Scout or Soldier, and that the enemy is either Demoman or Heavy. 
-* To indicate as the enemy, add `!ENEMY` behind the parameter.
+  * Eg. `scout!SELF,soldier!SELF,demoman!ENEMY,heavy!ENEMY` means the player is either Scout or Soldier, and that the enemy is either Demoman or Heavy. 
+* To indicate as the enemy, add `!ENEMY` behind the parameter. Otherwise, use `!SELF` to indicate the player.
 
 | Parameter | Description |
 | :--- | :--- |
@@ -41,9 +41,9 @@ Note that **player** is referring to the person completing the challenge.
 ### Player/Enemy Team
 
 * When you indicate more than 1 team, it means **OR**.
-  * Eg. `red,blue,red!ENEMY,blue!ENEMY` means the player is either on BLUE team or RED team, and that the enemy is either on BLUE team or RED team.
-  * Eg. `red,blue!ENEMY` means that the player has to be in RED team and the enemy must be in BLUE team. 
-* To indicate as the enemy, add `!ENEMY` behind the parameter.
+  * Eg. `red!SELF,blue!SELF,red!ENEMY,blue!ENEMY` means the player is either on BLUE team or RED team, and that the enemy is either on BLUE team or RED team.
+  * Eg. `red!SELF,blue!ENEMY` means that the player has to be in RED team and the enemy must be in BLUE team. 
+* To indicate as the enemy, add `!ENEMY` behind the parameter. Otherwise, use `!SELF` to indicate the player.
 
 | Parameter | Description |
 | :--- | :--- |
