@@ -26,7 +26,10 @@ If no votes were submitted and the next map does not contain a specific set pack
     <tr>
       <td style="text-align:left">Core Pack</td>
       <td style="text-align:left">All</td>
-      <td style="text-align:left">Slenderman</td>
+      <td style="text-align:left">
+        <p>Slenderman</p>
+        <p>Kate</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Statue Pack</td>
@@ -213,6 +216,36 @@ If no votes were submitted and the next map does not contain a specific set pack
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Boxing Ring Pack</td>
+      <td style="text-align:left">slender_boxing_ring</td>
+      <td style="text-align:left">
+        <p>Jaraxxus
+          <br />
+        </p>
+        <p>Rage Sniper
+          <br />
+        </p>
+        <p>Argonite Giant
+          <br />
+        </p>
+        <p>Argonite Magician
+          <br />
+        </p>
+        <p>KF2 Patriarch
+          <br />
+        </p>
+        <p>Hans Volter
+          <br />
+        </p>
+        <p>Spaghetti Shrek
+          <br />
+        </p>
+        <p>Spaghetti Drek
+          <br />
+        </p>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">Cry of Fear Pack</td>
       <td style="text-align:left">
         <p>slender_cry_of_fear</p>
@@ -243,6 +276,7 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>Dr. Trager
           <br />
         </p>
+        <p>Frank Manera</p>
       </td>
     </tr>
     <tr>
@@ -486,6 +520,42 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>Yuanti Pirate Boss</p>
         <p>Death Egg Robot</p>
         <p>Masked Man</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 19</td>
+      <td style="text-align:left">
+        <p>Big Smoke
+          <br />
+        </p>
+        <p>Jaraxxus
+          <br />
+        </p>
+        <p>Craig
+          <br />
+        </p>
+        <p>OI 2 Insanity
+          <br />
+        </p>
+        <p>Marcus</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 20</td>
+      <td style="text-align:left">
+        <p>Armless
+          <br />
+        </p>
+        <p>Snatcher
+          <br />
+        </p>
+        <p>Charlie Metson Jr.
+          <br />
+        </p>
+        <p>Rage Sniper
+          <br />
+        </p>
+        <p>Chaos Insurgency</p>
       </td>
     </tr>
   </tbody>
