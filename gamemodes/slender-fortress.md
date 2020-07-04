@@ -365,6 +365,7 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>Chesire Smile</p>
         <p>Eye Killer</p>
         <p>Cloth Wander</p>
+        <p>The Executioner</p>
       </td>
     </tr>
     <tr>
@@ -412,8 +413,9 @@ If no votes were submitted and the next map does not contain a specific set pack
       <td style="text-align:left">
         <p>Death Claw</p>
         <p>Shrek</p>
-        <p>Miku</p>
         <p>Hentai Woody</p>
+        <p>Slendytubbie</p>
+        <p>T-Pose Heavy</p>
       </td>
     </tr>
     <tr>
