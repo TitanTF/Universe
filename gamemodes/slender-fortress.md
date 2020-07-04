@@ -284,9 +284,9 @@ If no votes were submitted and the next map does not contain a specific set pack
       <td style="text-align:left">slender_alpha_complex</td>
       <td style="text-align:left">
         <p>Patriarch
+          <br />KF2 Patriarch
           <br />Fleshpounds
-          <br />
-        </p>
+          <br />King Fleshpound</p>
         <p>Hans Volter</p>
         <p>Flesh Clown
           <br />
