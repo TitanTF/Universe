@@ -435,6 +435,7 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>Luigi</p>
         <p>Paranoia</p>
         <p>Flandre</p>
+        <p>Queen Vanessa</p>
       </td>
     </tr>
     <tr>
@@ -494,6 +495,7 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>Ethre</p>
         <p>Lewis</p>
         <p>Mutant Brute</p>
+        <p>Neighbor</p>
       </td>
     </tr>
     <tr>
