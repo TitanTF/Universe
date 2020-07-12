@@ -561,6 +561,16 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>Chaos Insurgency</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">Pack 21</td>
+      <td style="text-align:left">
+        <p>Half-Life 2 D0g</p>
+        <p>Bill Cipher</p>
+        <p>Flesher</p>
+        <p>Cartoon Cat</p>
+        <p>Horseless Headless Horsemann</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
