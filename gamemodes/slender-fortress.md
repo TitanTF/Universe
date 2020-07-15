@@ -541,6 +541,7 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>OI 2 Insanity
           <br />
         </p>
+        <p>Astolfo Bean Plushie</p>
       </td>
     </tr>
     <tr>
