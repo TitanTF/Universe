@@ -43,7 +43,7 @@ Returns an XML feed on success.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="https://fix.titan.tf/atom" path="/discussions" %}
+{% api-method method="get" host="https://fix.titan.tf/atom/discussions" path="/" %}
 {% api-method-summary %}
 New Discussions
 {% endapi-method-summary %}
@@ -58,7 +58,7 @@ Get the latest discussions.
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-Returns a XML feed on success.
+Returns an XML feed on success.
 {% endapi-method-response-example-description %}
 
 ```markup
@@ -86,7 +86,7 @@ Returns a XML feed on success.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="https://fix.titan.tf/atom" path="/t/tag" %}
+{% api-method method="get" host="https://fix.titan.tf/atom/t" path="/tag" %}
 {% api-method-summary %}
 Recent Activity in Tag
 {% endapi-method-summary %}
@@ -135,7 +135,7 @@ Returns an XML feed on success.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="https://fix.titan.tf/atom" path="/t/tag/discussions" %}
+{% api-method method="get" host="https://fix.titan.tf/atom/t/tag/discussions" path="/" %}
 {% api-method-summary %}
 New Discussions in Tag
 {% endapi-method-summary %}
@@ -184,7 +184,7 @@ Returns an XML feed on success.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="https://fix.titan.tf/atom" path="/d/discussion-slug" %}
+{% api-method method="get" host="https://fix.titan.tf/atom/d" path="/discussion-slug" %}
 {% api-method-summary %}
 Recent Posts in Discussion
 {% endapi-method-summary %}
