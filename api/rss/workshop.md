@@ -98,7 +98,7 @@ Get submissions in a tag based on the most recent activity.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="tag" type="string" required=false %}
+{% api-method-parameter name="tag" type="string" required=true %}
 The submission tag to retrieve
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
@@ -147,7 +147,7 @@ Get submissions based on the most recent activity.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="tag" type="string" required=false %}
+{% api-method-parameter name="tag" type="string" required=true %}
 The submission tag to retrieve
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
@@ -196,8 +196,8 @@ Get recent comments in a submission.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=false %}
-
+{% api-method-parameter name="discussion-slug" type="string" required=true %}
+The submission to retrieve
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 {% endapi-method-request %}

@@ -135,7 +135,7 @@ Returns an XML feed on success.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="https://fix.titan.tf/atom/t/tag/discussions" path=" " %}
+{% api-method method="get" host="https://fix.titan.tf/atom/t/" path="tag/discussions" %}
 {% api-method-summary %}
 New Discussions in Tag
 {% endapi-method-summary %}
@@ -147,7 +147,7 @@ Get discussions based on the most recent activity.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="tag" type="string" required=false %}
+{% api-method-parameter name="tag" type="string" required=true %}
 The discussion tag to retrieve
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
@@ -196,7 +196,7 @@ Get recent posts in a discussion.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="discussion-slug" type="string" required=false %}
+{% api-method-parameter name="discussion-slug" type="string" required=true %}
 The discussion to retrieve
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
