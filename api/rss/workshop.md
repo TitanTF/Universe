@@ -1,6 +1,6 @@
 # Workshop
 
-{% api-method method="get" host="https://workshop.titan.tf/atom" path="/" %}
+{% api-method method="get" host="https://workshop.titan.tf/atom" path=" " %}
 {% api-method-summary %}
 Recent Activity
 {% endapi-method-summary %}
@@ -43,7 +43,7 @@ Returns an XML feed on success.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="https://workshop.titan.tf/atom/discussions" path="/" %}
+{% api-method method="get" host="https://workshop.titan.tf/atom/discussions" path=" " %}
 {% api-method-summary %}
 New Submissions
 {% endapi-method-summary %}

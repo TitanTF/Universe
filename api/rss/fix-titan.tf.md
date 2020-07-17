@@ -1,6 +1,6 @@
 # Fix Titan.TF
 
-{% api-method method="get" host="https://fix.titan.tf/atom" path="/" %}
+{% api-method method="get" host="https://fix.titan.tf/atom" path=" " %}
 {% api-method-summary %}
 Recent Activity
 {% endapi-method-summary %}
@@ -43,7 +43,7 @@ Returns an XML feed on success.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="https://fix.titan.tf/atom/discussions" path="/" %}
+{% api-method method="get" host="https://fix.titan.tf/atom/discussions" path=" " %}
 {% api-method-summary %}
 New Discussions
 {% endapi-method-summary %}
@@ -86,7 +86,7 @@ Returns an XML feed on success.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="https://fix.titan.tf/atom/t" path="/tag" %}
+{% api-method method="get" host="https://fix.titan.tf/atom/t/" path="tag" %}
 {% api-method-summary %}
 Recent Activity in Tag
 {% endapi-method-summary %}
@@ -135,7 +135,7 @@ Returns an XML feed on success.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="https://fix.titan.tf/atom/t/tag/discussions" path="/" %}
+{% api-method method="get" host="https://fix.titan.tf/atom/t/tag/discussions" path=" " %}
 {% api-method-summary %}
 New Discussions in Tag
 {% endapi-method-summary %}
@@ -184,7 +184,7 @@ Returns an XML feed on success.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="https://fix.titan.tf/atom/d" path="/discussion-slug" %}
+{% api-method method="get" host="https://fix.titan.tf/atom/d/" path="discussion-slug" %}
 {% api-method-summary %}
 Recent Posts in Discussion
 {% endapi-method-summary %}
