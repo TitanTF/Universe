@@ -183,5 +183,6 @@
 
 * [RSS](api/rss/README.md)
   * [Fix Titan.TF](api/rss/fix-titan.tf.md)
+  * [Workshop](api/rss/workshop.md)
 * [REST](api/rest.md)
 
