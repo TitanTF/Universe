@@ -1,6 +1,6 @@
 # Fix Titan.TF
 
-{% api-method method="get" host="https://fix.titan.tf/atom" path="" %}
+{% api-method method="get" host="https://fix.titan.tf/atom" path="/" %}
 {% api-method-summary %}
 Recent Activity
 {% endapi-method-summary %}
