@@ -182,7 +182,11 @@
 ## API
 
 * [RSS](api/rss/README.md)
-  * [Fix Titan.TF](api/rss/fix-titan.tf.md)
+  * [Activity Posts](api/rss/activity-posts.md)
+  * [Forum](api/rss/forum.md)
+  * [Blog Posts](api/rss/blog-posts.md)
+  * [Patch Notes](api/rss/patch-notes.md)
   * [Workshop](api/rss/workshop.md)
+  * [Fix Titan.TF](api/rss/fix-titan.tf.md)
 * [REST](api/rest.md)
 
