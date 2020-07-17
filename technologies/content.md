@@ -2,6 +2,8 @@
 
 Our custom content is made completely optional for all players. No one ever downloads a single content file for custom items when they connect.
 
+{% embed url="https://github.com/TitanTF/Ultimate-Content-Pack" %}
+
 ### Installation Detection
 
 Because the content is optional, we have made sure that players who have not installed the content pack can play normally without any issues by not playing custom sounds and rendering custom sprites for these players.

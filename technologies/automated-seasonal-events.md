@@ -1,8 +1,8 @@
-# Automated Season Events
+# Seasonal Events
 
-There are many wonderful seasons over every year, for example spooky Halloween and joyful Christmas.
+There are many wonderful seasons over every year, such as spooky Halloween and joyful Christmas.
 
-In order to create an atmosphere that strikes you the vibes of the season, we went ahead to modify some gameplay features to fit the theme.
+In order to create an atmosphere that strikes you with the vibes of each season, some gameplay features are modified during each season.
 
 These features are automatically enabled during each season.
 

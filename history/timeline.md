@@ -1,5 +1,7 @@
 ---
-description: The timeline includes major updates and events.
+description: >-
+  The timeline includes major updates and events. This page is incomplete and
+  probably never will due to how much there is to fill.
 ---
 
 # Timeline

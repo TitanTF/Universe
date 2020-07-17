@@ -95,8 +95,7 @@
 
 ## Fix Titan.TF <a id="fix"></a>
 
-* [Titan Improvement Project \(TIP\)](fix/information/README.md)
-  * [Fix Titan.TF](https://fix.titan.tf)
+* [Fix Titan.TF](https://fix.titan.tf)
 
 ## Chat
 
@@ -167,9 +166,9 @@
 
 * [Overview](maps-center/overview.md)
 
-## Creators Hub \(Coming Soon\) <a id="creators-hub"></a>
+## Workshop
 
-* [Announcement](creators-hub/announcement.md)
+* [Announcement](workshop/announcement.md)
 
 ## Reports
 
@@ -183,10 +182,6 @@
 
 * [Apply for Moderator](https://titan.tf/apply?mod)
 * [Moderator's Manual](https://mods.titan.tf/)
-
-## Fundraisers
-
-* [Rise of Region \(RoR\)](fundraisers/rise-of-region-rog.md)
 
 ## Others
 
@@ -205,7 +200,7 @@
 
 ## Technologies
 
-* [Automated Season Events](technologies/automated-seasonal-events.md)
+* [Seasonal Events](technologies/automated-seasonal-events.md)
 * [Optional Content](technologies/content.md)
 * [Content Distributor](technologies/distributor.md)
 * [Seamless Sessions](technologies/sessions.md)

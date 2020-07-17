@@ -1,4 +1,8 @@
 # REST
 
-## Available in 2027
+{% hint style="warning" %}
+We currently do not offer REST API support. Check back again in the future.
+{% endhint %}
+
+
 
