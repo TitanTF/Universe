@@ -181,6 +181,7 @@
 
 ## API
 
-* [RSS](api/rss.md)
+* [RSS](api/rss/README.md)
+  * [Fix Titan.TF](api/rss/fix-titan.tf.md)
 * [REST](api/rest.md)
 
