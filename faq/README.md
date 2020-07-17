@@ -36,7 +36,7 @@ There are over 3000 levels that support level tiers, which are the level badge p
 
 ## ![](../.gitbook/assets/chest%20%281%29.png) What are chests?
 
-Chests can only be obtained from leveling up. Certain event chests may be called a different name and can be obtain through other ways.
+Chests can only be obtained from leveling up. Certain event chests may be called a different name and can be obtained through other ways.
 
 Opening a chest will grant you a random item from the pool of items the chest is assigned to.
 
@@ -65,9 +65,9 @@ File a new report, or track your previous reports with the link below.
 
 ## ![](../.gitbook/assets/plus.png) What is Titan Plus?
 
-It is a donation-based program which provides donors with a large range of benefits that provide no competitive advantage against other players who do not have it.
+It is a monetary contribution program that provides subscribers with a wide range of benefits that do not grant any competitive advantage against other players who do not have it.
 
-It starts at a low price of 2 keys for every month of subscription, which is equivalent to $5 US dollars.
+It starts at a low price of 1 key for every month of subscription, which is equivalent to $2.50 US dollars.
 
 ## ![](../.gitbook/assets/moderator.png) How do I apply for a moderating position?
 
@@ -75,5 +75,5 @@ Submit a new application, or track your previously submitted applications with t
 
 ## ![](../.gitbook/assets/promo.png) How do I use a promo code?
 
-Enter it into the link above. Use promo code **UNIVERSE** to receive 100 gems!
+Enter promo codes into the link below. Thanks for reading, use the promo code **UNIVERSE** to receive 100 gems!
 

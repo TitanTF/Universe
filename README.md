@@ -1,12 +1,14 @@
 ---
-description: Welcome to the Titan Universe
+description: >-
+  Welcome to the Titan Universe. With over 340K unique players, we are a
+  constantly evolving network of custom Team Fortress 2 servers.
 ---
 
-# Overview
+# What is Titan.TF
 
-## Welcome
+## The Universe
 
-Titan Universe is the one place for everything Titan. Here you will discover the basics to get you started, as well as advanced features you will one day use.
+This is the one place for everything Titan. Here you will discover the basics to get you started, as well as advanced features you will one day come across.
 
 > This platform is created and maintained by the team. If you wish to make a modification, click the "Edit on GitHub" button on the top right of any page to create a Pull Request.
 
@@ -14,17 +16,17 @@ Titan Universe is the one place for everything Titan. Here you will discover the
 
 ### Disclaimer
 
-While we try our best to keep this library of information up to date, you may still find outdated information here. Please confirm the information you find here before proceeding with any action.
-
-For example, you are planning to buy Titan Plus but the perks listed here were outdated, the perk you really wanted is no longer available.
+{% hint style="danger" %}
+While we try our best to keep this library of information up to date, you may find outdated information here. Please verify the information you find here before proceeding with any action.
+{% endhint %}
 
 ## Updates
 
-Titan regularly receives content and feature updates depending on ideas and issues that come about, which also includes bug fixes. There is no fixed interval between updates or release schedule.
+Titan regularly receives content and feature updates depending on ideas and issues that come about, which also includes bug fixes. There is no fixed interval between updates nor do we have an update release schedule.
 
-There is a public facing bug and issue tracking platform, also used to make suggestions which we regularly check.
+There is a public facing bug and issue tracking platform which can also be used to make suggestions. We regularly monitor the platform for new discussions.
 
 ## Credits
 
-> Icons used are provided by [FlatIcon](https://flaticon.com)
+> Icons used on this site are provided by [FlatIcon](https://flaticon.com).
 

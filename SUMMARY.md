@@ -1,15 +1,15 @@
 # Table of contents
 
-* [Overview](README.md)
+* [What is Titan.TF](README.md)
 * [Glossary](glossary.md)
 * [FAQ](faq/README.md)
   * [Rules of Conduct](https://titan.tf/rules)
   * [Community Tracker](https://trello.com/b/zLIVdciy)
 
-## Personal
+## User
 
-* [Player Profiles](personal/player-profiles.md)
-* [Settings](personal/settings.md)
+* [Player Profiles](user/player-profiles.md)
+* [Settings](user/settings.md)
 
 ## Progression
 
@@ -82,10 +82,10 @@
 
 * [Coming Soon](missions/untitled.md)
 
-## Titan Law <a id="titanlaw"></a>
+## Titan Law <a id="law"></a>
 
-* [Modules](titanlaw/modules.md)
-* [Parameters](titanlaw/parameters.md)
+* [Modules](law/modules.md)
+* [Parameters](law/parameters.md)
 
 ## Titan Plus <a id="plus"></a>
 
