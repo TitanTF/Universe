@@ -4,9 +4,7 @@ description: >-
   constantly evolving network of custom Team Fortress 2 servers.
 ---
 
-# What is Titan.TF
-
-## The Universe
+# The Universe
 
 This is the one place for everything Titan. Here you will discover the basics to get you started, as well as advanced features you will one day come across.
 
@@ -14,7 +12,7 @@ This is the one place for everything Titan. Here you will discover the basics to
 
 ![by Leeroy](.gitbook/assets/universe.png)
 
-### Disclaimer
+#### Disclaimer
 
 {% hint style="danger" %}
 While we try our best to keep this library of information up to date, you may find outdated information here. Please verify the information you find here before proceeding with any action.

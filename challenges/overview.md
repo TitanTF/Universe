@@ -1,8 +1,0 @@
-# Overview
-
-### Limits
-
-### Accepting
-
-### Disabling
-

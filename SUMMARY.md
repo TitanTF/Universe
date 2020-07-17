@@ -1,10 +1,11 @@
 # Table of contents
 
-* [What is Titan.TF](README.md)
+* [The Universe](README.md)
 * [Glossary](glossary.md)
 * [FAQ](faq/README.md)
   * [Rules of Conduct](https://titan.tf/rules)
   * [Community Tracker](https://trello.com/b/zLIVdciy)
+* [We Are Titan.TF](https://thisis.titan.tf)
 
 ## User
 
@@ -24,7 +25,7 @@
 * [Overall](leaderboards/overall.md)
 * [National](leaderboards/national.md)
 * [Activity](leaderboards/activity.md)
-* [Couple](leaderboards/couple.md)
+* [Couples](leaderboards/couple.md)
 
 ## Items
 
@@ -63,39 +64,20 @@
 * [Casino](items/casino.md)
 * [Giveaways](items/giveaways.md)
 
-## Quests
-
-* [Overview](quests/untitled.md)
-* [Pins](quests/pins.md)
-* [Replace](quests/replace.md)
-* [Reports](quests/reports.md)
-
-## Challenges
-
-* [Overview](challenges/overview.md)
-* [Pins](challenges/pins.md)
-* [Categories](challenges/categories.md)
-* [Sets](challenges/sets.md)
-* [Events](challenges/events.md)
-
-## Missions
-
-* [Coming Soon](missions/untitled.md)
-
 ## Titan Law <a id="law"></a>
 
-* [Modules](law/modules.md)
-* [Parameters](law/parameters.md)
+* [Integrations](law/integrations/README.md)
+  * [Quests](law/integrations/quests.md)
+  * [Challenges](law/integrations/challenges.md)
+  * [Missions](law/integrations/missions.md)
+  * [Jobs](law/integrations/jobs.md)
+* [API](law/api/README.md)
+  * [Modules](law/api/modules.md)
+  * [Parameters](law/api/parameters.md)
 
 ## Titan Plus <a id="plus"></a>
 
-* [Perks](plus/perks/README.md)
-  * [Lost Trails](plus/perks/lost-trails.md)
 * [Subscribe to Plus](https://titan.tf/plus)
-
-## Fix Titan.TF <a id="fix"></a>
-
-* [Fix Titan.TF](https://fix.titan.tf)
 
 ## Chat
 
@@ -122,30 +104,30 @@
 
 ## Gamemodes
 
-* [Deathrun](gamemodes/deathrun.md)
-* [Freak Fortress](gamemodes/freak-fortress.md)
-* [VS Saxton Hale](gamemodes/vsh.md)
-* [Slender Fortress](gamemodes/slender-fortress.md)
-* [Machine Attacks](gamemodes/machine-attacks.md)
-* [Mann vs Machine](gamemodes/mann-vs-machine.md)
+* [Archived](gamemodes/archived/README.md)
+  * [2Fort](gamemodes/archived/2fort.md)
+  * [Battle Royale](gamemodes/archived/battle-royale.md)
+  * [Deathrun](gamemodes/archived/deathrun.md)
+  * [Freak Fortress](gamemodes/archived/freak-fortress.md)
+  * [Hightower](gamemodes/archived/hightower.md)
+  * [Prop Hunt](gamemodes/archived/prop-hunt.md)
+  * [Smash Bros](gamemodes/archived/smash-bros.md)
+  * [Trade](gamemodes/archived/trade.md)
+  * [TF2 Ware](gamemodes/archived/tf2-ware.md)
+  * [Turbine](gamemodes/archived/turbine.md)
+  * [VS Saxton Hale](gamemodes/archived/vsh.md)
+  * [Zombie Mod](gamemodes/archived/zombie-mod.md)
+  * [Zombie Survival](gamemodes/archived/zombie-survival.md)
 * [x10](gamemodes/x10.md)
 * [x100](gamemodes/x100.md)
 * [x1000](gamemodes/x1000.md)
-* [Orange](gamemodes/orange.md)
-* [Hightower](gamemodes/hightower.md)
-* [Dodgeball](gamemodes/dodgeball.md)
-* [TF2 Ware](gamemodes/tf2-ware.md)
-* [Trade](gamemodes/trade.md)
 * [Bowling](gamemodes/bowling.md)
+* [Dodgeball](gamemodes/dodgeball.md)
+* [Machine Attacks](gamemodes/machine-attacks.md)
+* [Mann vs Machine](gamemodes/mann-vs-machine.md)
+* [Orange](gamemodes/orange.md)
+* [Slender Fortress](gamemodes/slender-fortress.md)
 * [Uber Upgrades](gamemodes/uber-upgrades.md)
-* [Inactive](gamemodes/inactive/README.md)
-  * [2Fort](gamemodes/inactive/2fort.md)
-  * [Battle Royale](gamemodes/inactive/battle-royale.md)
-  * [Turbine](gamemodes/inactive/turbine.md)
-  * [Prop Hunt](gamemodes/inactive/prop-hunt.md)
-  * [Smash Bros](gamemodes/inactive/smash-bros.md)
-  * [Zombie Mod](gamemodes/inactive/zombie-mod.md)
-  * [Zombie Survival](gamemodes/inactive/zombie-survival.md)
 
 ## Website
 
@@ -164,26 +146,16 @@
 
 ## Maps Center
 
-* [Overview](maps-center/overview.md)
-
-## Workshop
-
-* [Announcement](workshop/announcement.md)
-
-## Reports
-
-* [Reports](https://titan.tf/report)
+* [Coming Soon](maps-center/overview.md)
 
 ## Support
 
+* [Workshop](https://workshop.titan.tf)
+* [Fix Titan.TF](https://fix.titan.tf)
 * [Download Server](steam://connect/download.titan.tf:11111)
-
-## Applications
-
+* [Reports](https://titan.tf/report)
 * [Apply for Moderator](https://titan.tf/apply?mod)
 * [Moderator's Manual](https://mods.titan.tf/)
-
-## Others
 
 ## History
 
@@ -198,14 +170,14 @@
 * [Storyline](history/storyline/README.md)
   * [Break the Safe](history/storyline/break-the-safe.md)
 
-## Technologies
+## Innovations
 
-* [Seasonal Events](technologies/automated-seasonal-events.md)
-* [Optional Content](technologies/content.md)
-* [Content Distributor](technologies/distributor.md)
-* [Seamless Sessions](technologies/sessions.md)
-* [Web-Game Integration](technologies/integration.md)
-* [Titan Law](technologies/law.md)
+* [Seasonal Events](innovations/automated-seasonal-events.md)
+* [Optional Content](innovations/content.md)
+* [Content Distributor](innovations/distributor.md)
+* [Seamless Sessions](innovations/sessions.md)
+* [Web-Game Integration](innovations/integration.md)
+* [Titan Law](innovations/law.md)
 
 ## API
 

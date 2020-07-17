@@ -8,5 +8,5 @@ description: The most fun gamemode ever?
 
 You can find configuration file which shows the list of bosses in each boss pack by following the link above.
 
-![](../.gitbook/assets/freaks.png)
+![](../../.gitbook/assets/freaks.png)
 
