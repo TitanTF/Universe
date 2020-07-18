@@ -59,8 +59,11 @@ Note that every reference to `player` is referring to the person completing the 
 {% tab title="State" %}
 ### State
 
-* To indicate as the enemy, add `!ENEMY` behind the parameter.
-* Eg. `alive;dead!ENEMY` means that the player is alive and the enemy is dead
+* To indicate as the enemy, add a `!ENEMY` notation behind the parameter. Otherwise, add a `!SELF` notation to indicate the player.
+
+**Examples**
+
+* `alive!SELF,dead!ENEMY` means that the player is alive and the enemy is dead.
 
 | Parameter | Description |
 | :--- | :--- |
@@ -83,12 +86,12 @@ Note that every reference to `player` is referring to the person completing the 
       <td style="text-align:left"><code>self</code>
       </td>
       <td style="text-align:left">
-        <p>The enemy and the victim is the same</p>
+        <p>The enemy and victim are the same</p>
         <p></p>
-        <p>Examples</p>
+        <p><b>Examples</b>
+        </p>
         <ul>
-          <li><b>Rocket and sticky jumping equals self damage</b>
-          </li>
+          <li>Rocket and sticky jumping equals self damage</li>
         </ul>
       </td>
     </tr>
@@ -100,34 +103,38 @@ Note that every reference to `player` is referring to the person completing the 
     <tr>
       <td style="text-align:left"><code>robot</code>
       </td>
-      <td style="text-align:left">A non-human enemy, eg. the bots in Mann vs Machine (not inclusive of NPCs
-        like the HHH, Merasmus, Monoculus and Skeletons)</td>
+      <td style="text-align:left">
+        <p>A non-human enemy</p>
+        <p></p>
+        <p><b>Examples</b>
+        </p>
+        <ul>
+          <li>The bots in Mann vs Machine (not inclusive of NPCs like the HHH, Merasmus,
+            Monoculus, and Skeletons)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>sameteam</code>
       </td>
       <td style="text-align:left">The enemy is on the same team (team kill)
-        <br />[<b>NOT RECOMMENDED</b>]</td>
+        <br /><em>[NOT RECOMMENDED]</em>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>name;search</code>
       </td>
       <td style="text-align:left">
-        <p>Match the enemies&apos; name
+        <p>Match the enemy name
           <br />
         </p>
         <p><code>;search</code> is the matching term to search for</p>
         <ul>
           <li><code>*</code><em> </em>in front of a name if you want the challenge to
             match names <b>CONTAINING </b>that name.</li>
-          <li>Otherwise, the challenge will match names with the exact naming.
-            <br />
-          </li>
-          <li>
-            <p><code>#</code> at the end of a name if you want the challenge to match
-              case-sensitively.</p>
-            <p></p>
-          </li>
+          <li>Otherwise, the challenge will match names with the exact naming.</li>
+          <li><code>#</code> at the end of a name if you want the challenge to match
+            case-sensitively.</li>
           <li>If you include multiple name searches, it means <b>OR</b>.</li>
         </ul>
       </td>
