@@ -73,7 +73,10 @@
   * [Jobs](law/integrations/jobs.md)
 * [API](law/api/README.md)
   * [Modules](law/api/modules.md)
-  * [Parameters](law/api/parameters.md)
+  * [Parameters](law/api/parameters-1/README.md)
+    * [Conditions](law/api/parameters-1/parameters.md)
+    * [Maps](law/api/parameters-1/maps.md)
+    * [Gamemodes](law/api/parameters-1/gamemodes-1.md)
 
 ## Titan Plus <a id="plus"></a>
 
