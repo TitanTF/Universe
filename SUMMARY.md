@@ -78,10 +78,6 @@
     * [Maps](law/api/parameters-1/maps.md)
     * [Gamemodes](law/api/parameters-1/gamemodes-1.md)
 
-## Titan Plus <a id="plus"></a>
-
-* [Subscribe to Plus](https://titan.tf/plus)
-
 ## Chat
 
 * [Chat Colors](chat/chat-colors.md)
@@ -153,6 +149,7 @@
 
 ## Support
 
+* [Subscribe to Plus](https://titan.tf/plus)
 * [Workshop](https://workshop.titan.tf)
 * [Fix Titan.TF](https://fix.titan.tf)
 * [Download Server](steam://connect/download.titan.tf:11111)
