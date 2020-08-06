@@ -524,6 +524,7 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>Yuanti Pirate Boss</p>
         <p>Death Egg Robot</p>
         <p>Masked Man</p>
+        <p>Reinforced Blood Golem</p>
       </td>
     </tr>
     <tr>
