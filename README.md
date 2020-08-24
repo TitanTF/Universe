@@ -1,12 +1,13 @@
 ---
 description: >-
-  Welcome to the Titan Universe. With over 340K unique players, we are a
-  constantly evolving network of custom Team Fortress 2 servers.
+  Welcome to the Titan Universe. With over 350K unique players, we are a
+  constantly evolving network of custom Team Fortress 2 servers. This is your go
+  to place to hang out and have fun.
 ---
 
 # The Universe
 
-This is the one place for everything Titan. Here you will discover the basics to get you started, as well as advanced features you will one day come across.
+This library is the one stop place for everything Titan. Here you will discover the basics to get you started, as well as awesome features you will one day come across.
 
 > This platform is created and maintained by the team. If you wish to make a modification, click the "Edit on GitHub" button on the top right of any page to create a Pull Request.
 
@@ -15,7 +16,7 @@ This is the one place for everything Titan. Here you will discover the basics to
 #### Disclaimer
 
 {% hint style="danger" %}
-While we try our best to keep this library of information up to date, you may find outdated information here. Please verify the information you find here before proceeding with any action.
+While we try our best to keep this library of information up to date, you may find outdated information here. Please verify any information you find here before proceeding with any action.
 {% endhint %}
 
 ## Updates

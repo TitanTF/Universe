@@ -1,10 +1,12 @@
 ---
-description: Required for seeing and hearing items.
+description: Getting custom content working on Titan.
 ---
 
 # Content Pack
 
-All item sounds, emotes and trails are part of what is known as the "optional content pack". This content pack is optional and does not download automatically when you connect to any of our community game servers. This is done to eliminate download times for players who only want to play on the servers without ever using these items.
+All custom items such as battle calls, medic cries, emotes and trails are part of what is known as the "optional content pack" or "DLC". It is a completely optional package of content that does not download automatically when you connect to any of our community game servers.
+
+This is done to eliminate unnecessary download times for players who only want to play on the servers without ever using these items.
 
 {% embed url="https://github.com/TitanTF/Ultimate-Content-Pack" %}
 

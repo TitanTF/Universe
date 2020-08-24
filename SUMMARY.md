@@ -7,10 +7,10 @@
   * [Community Tracker](https://trello.com/b/zLIVdciy)
 * [We Are Titan.TF](https://thisis.titan.tf)
 
-## User
+## Accounts
 
-* [Player Profiles](user/player-profiles.md)
-* [Settings](user/settings.md)
+* [Player Profiles](accounts/player-profiles.md)
+* [Settings](accounts/settings.md)
 
 ## Progression
 
@@ -103,14 +103,16 @@
 
 ## Gamemodes
 
+* [Hub](gamemodes/hub/README.md)
+  * [Smash Bros](gamemodes/hub/smash-bros.md)
+  * [Prop Hunt](gamemodes/hub/prop-hunt.md)
+  * [Freak Fortress](gamemodes/hub/freak-fortress.md)
+  * [Instagib](gamemodes/hub/instagib.md)
+  * [Deathrun](gamemodes/hub/deathrun.md)
 * [Archived](gamemodes/archived/README.md)
   * [2Fort](gamemodes/archived/2fort.md)
   * [Battle Royale](gamemodes/archived/battle-royale.md)
-  * [Deathrun](gamemodes/archived/deathrun.md)
-  * [Freak Fortress](gamemodes/archived/freak-fortress.md)
   * [Hightower](gamemodes/archived/hightower.md)
-  * [Prop Hunt](gamemodes/archived/prop-hunt.md)
-  * [Smash Bros](gamemodes/archived/smash-bros.md)
   * [Trade](gamemodes/archived/trade.md)
   * [TF2 Ware](gamemodes/archived/tf2-ware.md)
   * [Turbine](gamemodes/archived/turbine.md)
@@ -143,10 +145,6 @@
 * [Easter Eggs](website/easter-eggs/README.md)
   * [Loading Messages](website/easter-eggs/loading-messages.md)
 
-## Maps Center
-
-* [Coming Soon](maps-center/overview.md)
-
 ## Support
 
 * [Subscribe to Plus](https://titan.tf/plus)
@@ -170,7 +168,7 @@
 * [Storyline](history/storyline/README.md)
   * [Break the Safe](history/storyline/break-the-safe.md)
 
-## Innovations
+## Backend Innovations <a id="innovations"></a>
 
 * [Seasonal Events](innovations/automated-seasonal-events.md)
 * [Optional Content](innovations/content.md)
