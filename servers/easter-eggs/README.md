@@ -16,7 +16,7 @@ description: A list of secret hidden features you never knew existed on our serv
       <td style="text-align:left">Type &apos;42&apos; into Chat</td>
       <td style="text-align:left">
         <p>Get a random message.</p>
-        <p><em>Changes based on seasons.</em>
+        <p><em>Messages change based on seasons.</em>
         </p>
         <p>&lt;em&gt;&lt;/em&gt;</p>
         <p><a href="42-messages.md">List of Messages</a>
