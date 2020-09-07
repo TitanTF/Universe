@@ -22,7 +22,7 @@ If you have the red, green, and blue \(RGB\) values of a color, you can convert 
 
 ### Standard Coloring
 
-Include a hex symbol `#`, followed by the 6 digit hex code, in front of all the text you want to be colored with that color.
+Include an escaped hex symbol `\#`, followed by the 6 digit hex code, in front of all the text you want to be colored with that color.
 
 The format for standard coloring is `\#(hex symbol) XXXXXX(6 digit hex value)`.
 
@@ -32,7 +32,7 @@ Eg. `\#000000Hello, World` will print a black `Hello, World`
 
 Transparency adds a new dimension of customizing the colors of your chat messages.
 
-Include 2 hex symbols `\##`, followed by the 6 digit hex code and then the transparency value, infront of all the text you want to be colored with that color. The transparency value ranges from 00 \(least visible\) to 99 \(most visible\).
+Include 2 escaped hex symbols `\##`, followed by the 6 digit hex code and then the transparency value, in front of all the text you want to be colored with that color. The transparency value ranges from 00 \(least visible\) to 99 \(most visible\).
 
 The format for transparency is `\##(2 hex symbols) XXXXXX(6 digit hex value) YY(transparency)`.
 
