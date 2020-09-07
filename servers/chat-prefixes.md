@@ -1,5 +1,5 @@
 ---
-description: Show off your status.
+description: Show off your status and achievements.
 ---
 
 # Chat Prefixes
