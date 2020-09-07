@@ -1,5 +1,5 @@
 ---
-description: (2018) Marking our territory on the web.
+description: (2018) Creating a Territory on the Web
 ---
 
 # Titan 2
