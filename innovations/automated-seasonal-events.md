@@ -1,14 +1,18 @@
+---
+description: Feel the vibe of every season right at home.
+---
+
 # Seasonal Events
 
-There are many wonderful seasons over every year, such as spooky Halloween and joyful Christmas.
+From pumpkin supply drops to cake chests, you will never miss out on the vibes throughout the year because the seasons change here too!
 
-In order to create an atmosphere that strikes you with the vibes of each season, some gameplay features are modified during each season.
-
-These features are automatically enabled during each season.
+{% hint style="success" %}
+Some gameplay features will be modified during each season. These features are automatically enabled during each season.
+{% endhint %}
 
 ## April Fools
 
-For the lols.  
+For the lolz.  
 **1 April - 8 April \(7 days\)**
 
 ### Supply Drop

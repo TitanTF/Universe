@@ -66,11 +66,11 @@
 
 ## Titan Law <a id="law"></a>
 
-* [Integrations](law/integrations/README.md)
-  * [Quests](law/integrations/quests.md)
-  * [Challenges](law/integrations/challenges.md)
-  * [Missions](law/integrations/missions.md)
-  * [Jobs](law/integrations/jobs.md)
+* [Quests](law/quests.md)
+* [Challenges](law/challenges.md)
+* [Quick Challenges](law/quick-challenges.md)
+* [Missions](law/missions.md)
+* [Jobs](law/jobs.md)
 * [API](law/api/README.md)
   * [Modules](law/api/modules.md)
   * [Parameters](law/api/parameters-1/README.md)

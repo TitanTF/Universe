@@ -1,5 +1,5 @@
 ---
-description: The hub is a place where multiple gamemodes are rotated.
+description: A place where multiple game modes are placed on a rotation.
 ---
 
 # Hub
