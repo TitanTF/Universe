@@ -6,7 +6,7 @@ description: The full list of events that award XP.
 
 This is the current list of events that will award you XP. The amount of XP indicated for each event is the base XP and can be multiplied via [event multipliers](./).
 
-More events are being added over time.
+You can also gain XP by completing quests, challenges, jobs, and missions. The amount of XP you earn from these vary from one another.
 
 ![](../../.gitbook/assets/wizard.png)
 
@@ -55,6 +55,10 @@ More events are being added over time.
     <tr>
       <td style="text-align:left">Loot a Supply Chest</td>
       <td style="text-align:left">20</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Defeat a Halloween Boss</td>
+      <td style="text-align:left">300</td>
     </tr>
   </tbody>
 </table>
