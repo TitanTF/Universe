@@ -17,7 +17,7 @@ For the lolz.
 
 ### Supply Drop
 
-This is a special drop that is unique to this event. A bomb will randomly appear on the map. This bomb will detonate and annihilate everyone on the map if it is not destroyed within 5 minutes.
+This is a special drop that is unique to this event. A bomb will randomly appear on the map instead of a supply drop. This bomb will detonate and annihilate everyone on the map if it is not destroyed within 5 minutes.
 
 ![Giant bomb](../.gitbook/assets/image%20%2829%29.png)
 
@@ -31,7 +31,7 @@ This is a special drop that is unique to this event. A bomb will randomly appear
 
 ![All players including robots have gOoGly eyes o\_O](../.gitbook/assets/20200401200136_1.jpg)
 
-### Projectiles
+### Projectiles \(removed as of 10 September, 2020\)
 
 This feature only lasts for 1 day on 1 April. This feature is not available on Dodgeball servers.
 
@@ -45,6 +45,11 @@ This feature only lasts for 1 day on 1 April. This feature is not available on D
 
 ![Heavy](../.gitbook/assets/image%20%282%29.png)
 
+### Others
+
+* The chat becomes uwu-ified
+* Everyone's names will constantly change to their last sent message
+
 ## Founder's Birthday
 
 Celebrate the birthday month of our Founder.  
@@ -53,8 +58,6 @@ Celebrate the birthday month of our Founder.
 ### Supply Drop
 
 ![Giant cake](../.gitbook/assets/image%20%2827%29.png)
-
-### Supply Drop Fragment
 
 ### Supply Chest
 
@@ -93,7 +96,9 @@ The scariest one of them all!
 
 ### Robots
 
-### Halloween Spells
+Robots turn into skeletons.
+
+### Item Spells
 
 All Team Fortress 2 Halloween weapon spells will be activated on every weapon automatically.
 
@@ -111,7 +116,11 @@ All Team Fortress 2 Halloween weapon spells will be activated on every weapon au
 
 ![Gourd Grenades \(Stickybombs\)](../.gitbook/assets/image%20%288%29.png)
 
-### Projectiles
+### Magic Spells
+
+Random spells will be granted to every player every 20 seconds.
+
+### Projectiles \(removed as of 10 September, 2020\)
 
 This feature only lasts for 3 days till 3 October. This feature is not available on Dodgeball servers.
 
@@ -127,8 +136,6 @@ It's the most wonderful time of the year!
 ### Supply Drop
 
 ![A huge tree covered with snow that contains a lot of presents!](../.gitbook/assets/image%20%2826%29.png)
-
-### Supply Drop Fragment
 
 ### Supply Chest
 
