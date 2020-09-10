@@ -68,7 +68,6 @@
 
 * [Quests](law/quests.md)
 * [Challenges](law/challenges.md)
-* [Quick Challenges](law/quick-challenges.md)
 * [Missions](law/missions.md)
 * [Jobs](law/jobs.md)
 * [API](law/api/README.md)
@@ -85,7 +84,9 @@
 ## Events
 
 * [Daily Raids](events/daily-raids.md)
-* [Last To Leave](events/last-to-leave.md)
+* [Quick Challenges](events/quick-challenges.md)
+* [Target Elimination](events/target-elimination.md)
+* [Last One Standing](events/last-to-leave.md)
 
 ## Servers
 

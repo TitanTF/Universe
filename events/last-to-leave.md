@@ -1,4 +1,4 @@
-# Last To Leave
+# Last One Standing
 
 ### A brand new automated event is coming soon.
 
