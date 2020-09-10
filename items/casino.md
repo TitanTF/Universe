@@ -29,7 +29,7 @@ Only 1 jackpot game can be active at any one point in time.
 | **Min. Bet** | $0.10 |
 | **Max. Bet** | $5,000 |
 
-### Towers \(Discontinued\)
+### Towers
 
 Bet any amount of credits, avoid the bomb and climb to the last level of the tower to win. The number of levels vary depending on the amount you bet.
 
@@ -39,10 +39,40 @@ You can bail the tower with your current winnings any time you wish, if you thin
 | :--- | :--- |
 | **Players** | 1 |
 | **Game Type** | Solo |
-| **Entry Type** | Credit Betting |
+| **Entry Type** | Credit Betting + 15 Lucky Coins |
 | **Winners** | 0 or 1 |
 | **Min. Bet** | $0.10 |
-| **Max. Bet** | $500 |
+| **Max. Bet** | $100 |
+
+### Betrayal Rock, Paper, Scissors
+
+Challenge someone on the server to an intense game of rock, paper, scissors! Pick your move, then tell them what you chose, or not. Will they be tricked? 
+
+The winner wins credits bet from the loser's wallet.
+
+|  |  |
+| :--- | :--- |
+| **Players** | 1 |
+| **Game Type** | Duo |
+| **Entry Type** | Credit Betting |
+| **Winners** | 1 |
+| **Min. Bet** | $0.10 |
+| **Max. Bet** | $100,000 |
+
+### Coinflip
+
+Challenge someone on the server to a coinflip! Pick either heads or tails, then the opponent will automatically pick the other. 
+
+The winner wins credits bet from the loser's wallet.
+
+|  |  |
+| :--- | :--- |
+| **Players** | 1 |
+| **Game Type** | Duo |
+| **Entry Type** | Credit Betting |
+| **Winners** | 1 |
+| **Min. Bet** | $0.10 |
+| **Max. Bet** | $100,000 |
 
 ## Website
 
@@ -71,10 +101,10 @@ Rolls every half hour or when the pot exceeds 500 total items.
 
 Added in [Patch 2.0.53](https://steamcommunity.com/groups/titantf/discussions/11/1732087824985810792/), it was to build on the potential of a massive ARG in 2017, called "Break the Safe".
 
-Everyone can guess the PIN once every 10 minutes for free. The base safe contains $1,000 and increases by $100 to $200 every 1 hour. It increases by $5 for every failed attempt.
+Everyone can guess the PIN by paying 5 lucky coins. The base safe contains $1,000 and increases by $100 to $200 every 1 hour. It increases by $5 for every failed attempt.
 
 {% hint style="success" %}
-What happens when it is OPENED by someone?The person who manages to open it secures all the loot inside the safe.
+What happens when it is OPENED by someone? The person who manages to open it secures all the loot inside the safe.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -85,7 +115,7 @@ What happens when it is NOT OPENED? The safe explodes when it reaches $50,000 an
 | :--- | :--- |
 | **Players** | ∞ |
 | **Game Type** | Mega Party |
-| **Entry Type** | Free |
+| **Entry Type** | 5 Lucky Coins |
 | **Winners** | 1 |
 | **Min. Bet** | - |
 | **Max. Bet** |  - |
@@ -100,7 +130,7 @@ Earn lucky coins from playing, killing opponents, winning rounds and searching s
 | :--- | :--- |
 | **Players** | ∞ |
 | **Game Type** | Mega Party |
-| **Entry Type** | Lucky Coins |
+| **Entry Type** | Buying lottery tickets through lucky coins |
 | **Winners** | 1 |
 | **Min. Bet** | 1 Lucky Coin |
 | **Max. Bet** | ∞ |
@@ -133,7 +163,7 @@ The participant has to deposit items of value within the range of 3% lower and 3
     <tr>
       <td style="text-align:left"><b>Game Type</b>
       </td>
-      <td style="text-align:left">Duel</td>
+      <td style="text-align:left">Duo</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Entry Type</b>
@@ -166,11 +196,11 @@ The participant has to deposit items of value within the range of 3% lower and 3
   </tbody>
 </table>
 
-## Provably Fair
+### Provably Fair
 
 The provably fair system **only supports web-based casino games**. The goal of this system is to ensure the integrity of the result.
 
-### How It Works
+#### How It Works
 
 * A server seed, public seed and the result is generated at the start of every round
 * A sha256 hash is generated based on the `seeds, the result and the round number`
