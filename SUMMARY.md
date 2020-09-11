@@ -98,6 +98,12 @@
 * [Quick Challenges](events/quick-challenges.md)
 * [Target Elimination](events/target-elimination.md)
 * [Last One Standing](events/last-to-leave.md)
+* [Boosted Drops](events/boosted-drops.md)
+* [Double XP Fridays](events/double-xp-fridays.md)
+* [Gem Rush Weekends](events/gem-rush-weekends.md)
+* [Lucky Mondays](events/lucky-mondays.md)
+* [Weekend Multipliers](events/weekend-multipliers.md)
+* [TWILIGHT Hours](events/twilight-hours.md)
 
 ## Servers
 
