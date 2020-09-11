@@ -16,6 +16,8 @@
 
 * [Experience Points](progression/untitled/README.md)
   * [XP Table](progression/untitled/xp-table.md)
+  * [Supercharge XP](progression/untitled/supercharge-xp.md)
+  * [Breakthroughs](progression/untitled/breakthroughs.md)
 * [Levels](progression/levels/README.md)
   * [Levels Table](progression/levels/levels-table.md)
 
@@ -63,6 +65,7 @@
   * [Bank](https://titan.tf/bank)
 * [Casino](items/casino.md)
 * [Giveaways](items/giveaways.md)
+* [Oddities](items/oddities.md)
 
 ## Titan Law <a id="law"></a>
 
@@ -80,6 +83,14 @@
 ## Chat
 
 * [Chat Colors](chat/chat-colors.md)
+
+## Champions
+
+* [Seasons](champions/seasons.md)
+* [Bucks](champions/bucks/README.md)
+  * [Trivia](champions/bucks/trivia.md)
+  * [BREAD](champions/bucks/bread.md)
+  * [Vault](champions/bucks/vault.md)
 
 ## Events
 
@@ -100,6 +111,7 @@
   * [XP Drops](servers/loot/xp-drops.md)
   * [Gem Drops](servers/loot/gem-drops.md)
 * [Easter Eggs](servers/easter-eggs/README.md)
+  * [Skins](servers/easter-eggs/skins.md)
   * ['42' Messages](servers/easter-eggs/42-messages.md)
 
 ## Gamemodes
