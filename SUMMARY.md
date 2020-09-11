@@ -105,16 +105,19 @@
 
 ## Events
 
-* [Daily Raids](events/daily-raids.md)
-* [Quick Challenges](events/quick-challenges.md)
-* [Target Elimination](events/target-elimination.md)
-* [Last One Standing](events/last-to-leave.md)
-* [Boosted Drops](events/boosted-drops.md)
-* [Double XP Fridays](events/double-xp-fridays.md)
-* [Gem Rush Weekends](events/gem-rush-weekends.md)
-* [Lucky Mondays](events/lucky-mondays.md)
-* [Weekend Multipliers](events/weekend-multipliers.md)
-* [TWILIGHT Hours](events/twilight-hours.md)
+* [Daily](events/daily/README.md)
+  * [Daily Raids](events/daily/daily-raids.md)
+  * [TWILIGHT Hours](events/daily/twilight-hours.md)
+* [Weekly](events/weekly/README.md)
+  * [Boosted Drops](events/weekly/boosted-drops.md)
+  * [Lucky Mondays](events/weekly/lucky-mondays.md)
+  * [Double XP Fridays](events/weekly/double-xp-fridays.md)
+  * [Gem Rush Weekends](events/weekly/gem-rush-weekends.md)
+  * [Weekend Multipliers](events/weekly/weekend-multipliers.md)
+* [Always Active](events/always-active/README.md)
+  * [Quick Challenges](events/always-active/quick-challenges.md)
+  * [Target Elimination](events/always-active/target-elimination.md)
+  * [Last One Standing](events/always-active/last-to-leave.md)
 
 ## Servers
 
