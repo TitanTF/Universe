@@ -29,6 +29,7 @@ If no votes were submitted and the next map does not contain a specific set pack
       <td style="text-align:left">
         <p>Slenderman</p>
         <p>Kate</p>
+        <p>Hyper Snatcher</p>
       </td>
     </tr>
     <tr>
@@ -243,6 +244,10 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>Spaghetti Drek
           <br />
         </p>
+        <p>The Count&apos;s Monster</p>
+        <p>Count Hans</p>
+        <p>Swamp Monster King</p>
+        <p>Boxing King Fleshpound</p>
       </td>
     </tr>
     <tr>
@@ -291,6 +296,9 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>Flesh Clown
           <br />
         </p>
+        <p>The Count&apos;s Monster</p>
+        <p>Count Hans</p>
+        <p>Swamp Monster King</p>
       </td>
     </tr>
     <tr>
@@ -444,7 +452,8 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>Kuro Oni</p>
         <p>Ao Oni</p>
         <p>Flesh Clown</p>
-        <p>Hans Volter</p>
+        <p>Hans Volter
+          <br />Count Hans</p>
         <p>SCP-096</p>
       </td>
     </tr>
