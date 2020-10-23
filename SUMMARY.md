@@ -81,7 +81,8 @@
 ## Titan Law <a id="law"></a>
 
 * [Quests](law/quests.md)
-* [Challenges](law/challenges.md)
+* [Challenges](law/challenges/README.md)
+  * [Community Challenges](law/challenges/community-challenges.md)
 * [Missions](law/missions.md)
 * [Jobs](law/jobs.md)
 * [API](law/api/README.md)
