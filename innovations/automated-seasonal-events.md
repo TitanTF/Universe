@@ -96,7 +96,13 @@ The scariest one of them all!
 
 ### Robots
 
-Robots turn into skeletons.
+Robots turn into zombies and skeletons.
+
+### Wave 666
+
+### Zombie Skins
+
+### Skeleton Spawns
 
 ### Item Spells
 
