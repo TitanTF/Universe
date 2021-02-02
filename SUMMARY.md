@@ -14,10 +14,10 @@
 
 ## Progression
 
-* [Experience Points](progression/untitled/README.md)
-  * [XP Table](progression/untitled/xp-table.md)
-  * [Supercharge XP](progression/untitled/supercharge-xp.md)
-  * [Breakthroughs](progression/untitled/breakthroughs.md)
+* [Experience Points](progression/xp/README.md)
+  * [XP Table](progression/xp/xp-table.md)
+  * [Supercharge XP](progression/xp/supercharge-xp.md)
+  * [Breakthroughs](progression/xp/breakthroughs.md)
 * [Levels](progression/levels/README.md)
   * [Levels Table](progression/levels/levels-table.md)
 
