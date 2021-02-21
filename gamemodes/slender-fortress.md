@@ -340,6 +340,11 @@ If no votes were submitted and the next map does not contain a specific set pack
       <td style="text-align:left">slender_krusty_krab</td>
       <td style="text-align:left">Suicide Squidward</td>
     </tr>
+    <tr>
+      <td style="text-align:left">Kart Pack</td>
+      <td style="text-align:left">slender_mario_circuit</td>
+      <td style="text-align:left">Merasmus</td>
+    </tr>
   </tbody>
 </table>
 
@@ -580,6 +585,54 @@ If no votes were submitted and the next map does not contain a specific set pack
         <p>Flesher</p>
         <p>Cartoon Cat</p>
         <p>Horseless Headless Horsemann</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 22</td>
+      <td style="text-align:left">
+        <p>Absolute Snatcher
+          <br />
+        </p>
+        <p>Fug (Smileys)
+          <br />
+        </p>
+        <p>Dark Candy Fiddlesticks
+          <br />
+        </p>
+        <p>Barry (Smileys)
+          <br />
+        </p>
+        <p>Cosmic Snatcher</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 23</td>
+      <td style="text-align:left">
+        <p>Memphis Tennessee
+          <br />
+        </p>
+        <p>Sett
+          <br />
+        </p>
+        <p>Hyper Snatcher
+          <br />
+        </p>
+        <p>Jhin</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pack 24</td>
+      <td style="text-align:left">
+        <p>Smiley 1
+          <br />
+        </p>
+        <p>Smiley 2
+          <br />
+        </p>
+        <p>Woormy Charles
+          <br />
+        </p>
+        <p>Tinky Winky</p>
       </td>
     </tr>
   </tbody>
