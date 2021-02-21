@@ -12,7 +12,7 @@ If the next map contains a specific set pack in the specific pack list below, th
 
 If no votes were submitted and the next map does not contain a specific set pack, the default pack: Pack 1 will be loaded.
 
-### Specific Packs
+### Themed Packs
 
 <table>
   <thead>
