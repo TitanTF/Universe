@@ -342,7 +342,10 @@ If no votes were submitted and the next map does not contain a specific set pack
     </tr>
     <tr>
       <td style="text-align:left">Kart Pack</td>
-      <td style="text-align:left">slender_mario_circuit</td>
+      <td style="text-align:left">
+        <p>slender_mario_circuit</p>
+        <p>slender_bowser_castle</p>
+      </td>
       <td style="text-align:left">Merasmus</td>
     </tr>
   </tbody>
