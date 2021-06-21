@@ -1,6 +1,6 @@
 ---
 description: >-
-  Welcome to the Titan Universe. With over 350K unique players, we are a
+  Welcome to the Titan Universe. With over 360K unique players, we are a
   constantly evolving network of custom Team Fortress 2 servers. This is your go
   to place to hang out and have fun.
 ---
